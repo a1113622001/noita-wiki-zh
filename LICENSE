@@ -1,0 +1,13 @@
+本仓库内容改编自 Noita Wiki (https://noita.wiki.gg/zh),版权归 Noita Wiki 贡献者所有。
+
+许可协议:知识共享 署名-非商业性使用-相同方式共享 3.0 (CC BY-NC-SA 3.0)
+
+https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh-hans
+
+要点:
+- 署名 (BY):使用/分发时必须保留对 Noita Wiki 及本仓库的署名与来源链接。
+- 非商业性使用 (NC):不得将本内容用于商业目的。
+- 相同方式共享 (SA):基于本内容的演绎作品必须以相同许可协议发布。
+
+随仓库附带的代码(rag/ 下的脚本)与 RAG 配置示例不受此限制,
+可按 MIT 许可自由使用;但调用 RAG 所需的 API key 需自行申请。
