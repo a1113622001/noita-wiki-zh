@@ -126,6 +126,21 @@ command: python
 args:    ["<本仓库路径>/rag/mcp_server.py"]
 ```
 
+### 在 ChatBox 中安装 Skill(推荐,无需配 MCP)
+
+本仓库附带标准 **Agent Skills**(agentskills.io 规范,兼容 Claude Code 技能),位于
+`skills/noita-wiki-rag/`。ChatBox 安装方式:
+
+1. **从 GitHub 安装**:ChatBox → 设置 → 技能 → 从 GitHub 仓库安装,
+   填 `https://github.com/a1113622001/noita-wiki-zh`(或手动放置)。
+2. **手动放置**:把 `skills/noita-wiki-rag/` 整个文件夹复制到本地技能目录
+   (ChatBox 会自动发现 `~/.agents/skills/` 和 `~/.claude/skills/`)。
+3. 会话中输入 `/noita-wiki-rag` 或在技能面板点选启用;ChatBox 工作模式下,
+   AI 会按技能说明自动定位知识库并回答 Noita 问题(需先克隆本仓库到本机)。
+
+> 注意:ChatBox 的 "Skills" 是给 AI 的说明文件,不是工具;"MCP" 才是工具接入。
+> 两者都可用,Skill 方式更简单。
+
 ### 重建索引
 
 索引损坏或想用新内容重建时:
@@ -173,6 +188,8 @@ noita-wiki-zh/
     ├── chunks.json      # 分块元数据(Git LFS)
     ├── config.json      # 你的 API key 配置(不入库)
     └── config.example.json  # 配置模板(入库)
+└── skills/              # Agent Skills(标准格式)
+    └── noita-wiki-rag/SKILL.md  # ChatBox/Claude Code 可用
 ```
 
 ---
