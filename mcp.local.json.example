@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "noita-rag": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["C:\\path\\to\\noita-wiki-zh\\rag\\mcp_server.py"],
+      "env": {
+        "PYTHONIOENCODING": "utf-8"
+      }
+    }
+  }
+}

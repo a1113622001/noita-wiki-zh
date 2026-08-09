@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "noita-rag": {
+      "type": "http",
+      "url": "http://YOUR_SERVER_IP:8765/mcp",
+      "headers": {
+        "Authorization": "Bearer YOUR_TOKEN"
+      }
+    }
+  }
+}

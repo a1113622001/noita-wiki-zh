@@ -179,6 +179,14 @@ ChatBox 接入(任意设备):设置 → MCP → 添加自定义 → **远程(htt
 - URL: `http://<服务器IP>:8765/mcp`
 - Headers(若启用了 token): `{ "Authorization": "Bearer <你的密钥>" }`
 
+**JSON 一键导入(免手填)**:ChatBox 支持直接导入 MCP 配置 JSON(Claude Code 兼容格式)。
+仓库已附带两个模板,在 ChatBox 的 MCP 添加界面选"JSON 导入"即可:
+
+- `mcp.chatbox.json.example` —— 远程服务器模式(需先把 `YOUR_SERVER_IP` / `YOUR_TOKEN`
+  替换成实际值);服务器部署后用这个。
+- `mcp.local.json.example` —— 本机 stdio 模式(需把 `C:\\path\\to\\noita-wiki-zh`
+  替换成本机仓库实际路径);没服务器、仅桌面端用这个。
+
 > ⚠️ 公网开放意味着任何拿到地址的人都能调用(消耗你的 SiliconFlow 额度)。
 > **强烈建议启用 `MCP_TOKEN` 鉴权**,或仅在内网/加白名单的机器上使用。
 > 反代 HTTPS(nginx/caddy)可自行按常规方式配置。
