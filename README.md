@@ -111,35 +111,59 @@ python query.py                               # 交互模式,输入 exit 退出
 
 ## 进阶用法
 
+### 在 ChatBox 中使用(桌面端)
+
+ChatBox 支持两种方式接入本知识库,均在 **工作模式** 下生效(对话模式不注入工具;
+ChatBox 设置 → 工作模式,或在输入框工具栏打开机器人面板)。技能/Skill 的启用是全局的,
+配置一次处处生效。
+
+#### 方式一:安装 Skill(推荐,最简单)
+
+本仓库附带标准 **Agent Skills**(agentskills.io 规范,兼容 Claude Code 技能),位于
+`skills/noita-wiki-rag/`。安装二选一:
+
+1. **从 GitHub 安装**:ChatBox → 设置 → 技能 → 从 GitHub 仓库安装,
+   填 `https://github.com/a1113622001/noita-wiki-zh`。
+2. **手动放置**:把 `skills/noita-wiki-rag/` 整个文件夹复制到本地技能目录
+   (ChatBox 会自动发现 `~/.agents/skills/` 和 `~/.claude/skills/`)。
+
+使用:会话中输入 `/noita-wiki-rag`(或在技能面板点选)激活。AI 会按技能说明自动
+定位/克隆知识库、优先读 `pages/` 源文件回答,需要时运行 `rag/query.py` 做 RAG 问答。
+
+#### 方式二:接入 MCP server(工具化)
+
+ChatBox → 设置 → MCP → 添加自定义 server(本地 stdio,仅桌面端):
+
+| 字段 | 值 |
+|---|---|
+| 名称 | `noita-rag` |
+| 类型 | 本地(stdio) |
+| 命令 | `python` |
+| 参数 | `<本仓库绝对路径>\rag\mcp_server.py` |
+| 环境变量 | `PYTHONIOENCODING=utf-8` |
+
+保存前必须先点 **测试** 验证连通(测试通过才能保存);启用后工具
+`noita_query` / `noita_search` 会注入给 AI。
+
+#### 前提(两种方式都需要)
+
+- 本机已克隆仓库:`git clone https://github.com/a1113622001/noita-wiki-zh.git`
+- RAG 问答需 `pip install numpy mcp` + SiliconFlow key(`rag/config.json` 或环境变量
+  `SILICONFLOW_API_KEY`);仅让 AI 读 `pages/` 源文件回答则无需 key。
+
+> 区别:Skill 是给 AI 的"说明书",靠 AI 读文件/跑命令;MCP 是标准工具接口,直接注入
+> 工具。两者都可用;Skill 更简单,不要求额外安装,推荐。
+
 ### 在 Reasonix / Claude Code 等 MCP 客户端中使用
 
-本仓库附带一个 MCP server(`rag/mcp_server.py`),暴露两个工具:
-
-- `noita_query(question)`:完整问答(检索+重排+生成)
-- `noita_search(question, top_n)`:只检索片段(省额度)
-
-在支持 MCP 的客户端(如 Reasonix、ChatBox、Claude Code)中,把 `rag/mcp_server.py`
-注册为一个 stdio MCP server 即可:
+同样把 `rag/mcp_server.py` 注册为 stdio MCP server:
 
 ```
 command: python
 args:    ["<本仓库路径>/rag/mcp_server.py"]
 ```
 
-### 在 ChatBox 中安装 Skill(推荐,无需配 MCP)
-
-本仓库附带标准 **Agent Skills**(agentskills.io 规范,兼容 Claude Code 技能),位于
-`skills/noita-wiki-rag/`。ChatBox 安装方式:
-
-1. **从 GitHub 安装**:ChatBox → 设置 → 技能 → 从 GitHub 仓库安装,
-   填 `https://github.com/a1113622001/noita-wiki-zh`(或手动放置)。
-2. **手动放置**:把 `skills/noita-wiki-rag/` 整个文件夹复制到本地技能目录
-   (ChatBox 会自动发现 `~/.agents/skills/` 和 `~/.claude/skills/`)。
-3. 会话中输入 `/noita-wiki-rag` 或在技能面板点选启用;ChatBox 工作模式下,
-   AI 会按技能说明自动定位知识库并回答 Noita 问题(需先克隆本仓库到本机)。
-
-> 注意:ChatBox 的 "Skills" 是给 AI 的说明文件,不是工具;"MCP" 才是工具接入。
-> 两者都可用,Skill 方式更简单。
+暴露工具:`noita_query(question)`(问答)、`noita_search(question, top_n)`(省额度检索)。
 
 ### 重建索引
 
