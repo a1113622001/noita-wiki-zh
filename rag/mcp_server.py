@@ -1,12 +1,15 @@
 # -*- coding: utf-8 -*-
-"""Noita Wiki RAG - MCP server (stdio).
+"""Noita Wiki RAG - MCP server.
 暴露工具:
   noita_query(question)  -> 检索+重排+LLM 生成的回答(含来源)
   noita_search(question, top_n=6) -> 只检索片段(省额度)
 
-运行: python mcp_server.py   (被 MCP client 以 stdio 方式拉起)
+传输模式:
+  python mcp_server.py               # stdio(本地,被 MCP client 拉起)
+  python mcp_server.py --http        # streamable-http(服务器部署,远程接入)
+  python mcp_server.py --http --port 8765
 """
-import json, os, sys
+import argparse, json, os, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import query as rag
@@ -40,4 +43,12 @@ def noita_search(question: str, top_n: int = 6) -> str:
     return "\n".join(out)
 
 if __name__ == "__main__":
-    server.run("stdio")
+    ap = argparse.ArgumentParser(description="Noita RAG MCP server")
+    ap.add_argument("--http", action="store_true", help="以 streamable-http 模式运行(服务器部署)")
+    ap.add_argument("--port", type=int, default=8765, help="http 模式端口(默认 8765)")
+    args = ap.parse_args()
+    if args.http:
+        print(f"Noita RAG MCP (streamable-http) listening on :{args.port}", flush=True)
+        server.run("streamable-http", port=args.port)
+    else:
+        server.run("stdio")

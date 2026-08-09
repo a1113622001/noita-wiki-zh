@@ -158,6 +158,31 @@ ChatBox → 设置 → MCP → 添加自定义 server(本地 stdio,仅桌面端)
 > 区别:Skill 是给 AI 的"说明书",靠 AI 读文件/跑命令;MCP 是标准工具接口,直接注入
 > 工具。两者都可用;Skill 更简单,不要求额外安装,推荐。
 
+### 部署到服务器(远程 http MCP,手机/Web 也能用)
+
+本地 stdio MCP 仅桌面端可用;想在任何设备(含手机/网页版 ChatBox)接入,可把
+MCP server 部署到一台 Linux 服务器上,以 streamable-http 方式对外服务:
+
+```bash
+# 在服务器上(需 root/sudo,Ubuntu/Debian/CentOS 均可)
+wget https://raw.githubusercontent.com/a1113622001/noita-wiki-zh/master/deploy.sh
+sudo bash deploy.sh
+# 可选:启用 Bearer token 鉴权,防止他人盗用你的 API 额度
+MCP_TOKEN=你的随机密钥 sudo bash deploy.sh
+```
+
+脚本会自动:装依赖 → clone 仓库(含 LFS 索引)→ 装 Python 包 → 配置 SiliconFlow key
+→ 注册 systemd 服务(开机自启/崩溃重启)→ 开放防火墙端口。完成后会打印服务地址
+`http://<服务器IP>:8765/mcp` 和 ChatBox 接入参数。
+
+ChatBox 接入(任意设备):设置 → MCP → 添加自定义 → **远程(http)**:
+- URL: `http://<服务器IP>:8765/mcp`
+- Headers(若启用了 token): `{ "Authorization": "Bearer <你的密钥>" }`
+
+> ⚠️ 公网开放意味着任何拿到地址的人都能调用(消耗你的 SiliconFlow 额度)。
+> **强烈建议启用 `MCP_TOKEN` 鉴权**,或仅在内网/加白名单的机器上使用。
+> 反代 HTTPS(nginx/caddy)可自行按常规方式配置。
+
 ### 在 Reasonix / Claude Code 等 MCP 客户端中使用
 
 同样把 `rag/mcp_server.py` 注册为 stdio MCP server:
