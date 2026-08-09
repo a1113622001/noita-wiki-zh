@@ -57,6 +57,15 @@ noita-wiki-zh/
 
 ## 使用方式(按优先级)
 
+> 优先原则:若当前环境已接入 `noita-rag` MCP server(工具名 `noita_query` / `noita_search`),
+> **优先直接调用 MCP 工具**——它封装了检索+重排+生成,结果稳定且快,不需要你手动跑命令。
+> MCP 工具不可用时,再按下面的方式 A/B 降级执行。
+
+### 方式 0:MCP 工具(如已接入)
+
+- `noita_query(question)`:完整问答(检索+重排+LLM 生成),返回带来源引用。
+- `noita_search(question, top_n)`:只检索片段,不调用生成模型(省额度)。
+
 ### 方式 A:直接查 pages/ 源文件(最快、离线、无需 key)
 
 对明确目标页面,直接读 Markdown:
