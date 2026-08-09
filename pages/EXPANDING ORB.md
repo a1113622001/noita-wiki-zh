@@ -1,0 +1,10 @@
+# EXPANDING ORB
+
+**来源:** https://noita.wiki.gg/zh/wiki/EXPANDING%20ORB
+---
+
+> 本页面是重定向页,指向: **[[扩张之球]]**
+
+---
+
+重定向来源:`EXPANDING ORB` → `扩张之球`

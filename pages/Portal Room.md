@@ -1,0 +1,10 @@
+# Portal Room
+
+**来源:** https://noita.wiki.gg/zh/wiki/Portal%20Room
+---
+
+> 本页面是重定向页,指向: **[[传送门房间]]**
+
+---
+
+重定向来源:`Portal Room` → `传送门房间`

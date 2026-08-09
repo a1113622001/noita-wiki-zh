@@ -1,0 +1,9 @@
+{
+  "api_key": "",
+  "api_base": "https://api.siliconflow.cn/v1",
+  "embedding_model": "BAAI/bge-m3",
+  "rerank_model": "BAAI/bge-reranker-v2-m3",
+  "chat_model": "deepseek-ai/DeepSeek-V4-Flash",
+  "top_k_retrieve": 30,
+  "top_n_rerank": 6
+}

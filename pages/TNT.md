@@ -1,0 +1,202 @@
+# TNT
+
+**分类:** [Category:有使用次数的法术](Category%3A有使用次数的法术.md) · [Category:具有正数的施放延迟法术](Category%3A具有正数的施放延迟法术.md) · [Category:影响存在时间的修正](Category%3A影响存在时间的修正.md) · [Category:影响散射角度的修正](Category%3A影响散射角度的修正.md) · [Category:爆炸伤害法术](Category%3A爆炸伤害法术.md) · [[Category:使用不推荐格式描述速度的信息框]] · [[Category:没有标签的法术]] · [Category:Spells](Category%3ASpells.md) · [Category:投射物法术](Category%3A投射物法术.md)
+**来源:** https://noita.wiki.gg/zh/wiki/TNT
+---
+
+## 炸药  
+  
+  * 炸药
+
+
+
+
+
+
+
+召唤一枚小型爆炸物
+
+### 官方中文名
+
+炸药
+
+### ![Inventory Icon action type.png](https://noita.wiki.gg/zh/images/Inventory_Icon_action_type.png?21d8c4)类型
+
+投射物
+
+### ![Inventory Icon action max uses.png](https://noita.wiki.gg/zh/images/Inventory_Icon_action_max_uses.png?c39624)使用次数
+
+16
+
+### ![Unlimited icon.png](https://noita.wiki.gg/zh/images/Unlimited_icon.png?c2fe75)[可否无限次数](无限法术.md)
+
+可
+
+### ![Inventory Icon mana drain.png](https://noita.wiki.gg/zh/images/Inventory_Icon_mana_drain.png?cadf69)法力消耗
+
+50
+
+### ![Inventory Icon fire rate wait.png](https://noita.wiki.gg/zh/images/Inventory_Icon_fire_rate_wait.png?19eb7a)施放延迟
+
++50 (+0.83)
+
+## 修正 [ⓘ](修正.md)
+
+### ![Inventory Icon spread degrees.png](https://noita.wiki.gg/zh/images/Inventory_Icon_spread_degrees.png?9ba8fa)散射角度修正
+
++6
+
+## 投射物 [ⓘ](投射物.md)
+
+### ![Inventory Icon damage explosion.png](https://noita.wiki.gg/zh/images/Inventory_Icon_damage_explosion.png?a98554)爆炸伤害
+
+62.5
+
+### ![Inventory Icon explosion radius.png](https://noita.wiki.gg/zh/images/Inventory_Icon_explosion_radius.png?624afd)爆炸半径
+
+28
+
+### 爆炸破坏等级
+
+11
+
+### 爆炸射线能量
+
+6000000
+
+## 投射物 - 时间
+
+### ![Lifetime.png](https://noita.wiki.gg/images/Lifetime.png?2ad06f)存在时间 [ⓘ](法术.md)
+
+50f
+
+## 投射物 - 运动
+
+### ![Inventory icon speed initial.png](https://noita.wiki.gg/images/Inventory_icon_speed_initial.png?c85ad8)初始速度
+
+800
+
+### ![Inventory Icon spread degrees.png](https://noita.wiki.gg/zh/images/Inventory_Icon_spread_degrees.png?9ba8fa)散射角度
+
+0.00
+
+### ![Inventory icon gravity.png](https://noita.wiki.gg/images/Inventory_icon_gravity.png?46680c)重力
+
+400
+
+### ![Inventory icon air friction.png](https://noita.wiki.gg/images/Inventory_icon_air_friction.png?406332)空气阻力
+
+0.55
+
+### ![Icon Projectile Mass.png](https://noita.wiki.gg/images/Icon_Projectile_Mass.png?537195)质量
+
+0.05
+
+## 其他信息
+
+### 法术等级和生成权重 [ⓘ](法术等级.md)
+
+01/44.522.24
+
+11/93.311.07
+
+21/17210.58
+
+31/18510.54
+
+41/23810.42
+
+500
+
+600
+
+700
+
+800
+
+900
+
+1000
+
+### 基础价格
+
+160
+
+### ID
+
+`DYNAMITE`
+
+**TNT** （**炸药** 或**鞭炮** ）会快速抛出一枚炸药筒，在一定时间后爆炸。这个法术是第二根初始法杖可能携带的法术之一。 
+
+## 使用技巧
+
+  * TNT法术的充能次数显著多于[炸弹](炸弹.md)，但对地形的破坏力更差。这使得它在对付敌人方面更灵活。
+  * 由于扔出的炸药筒会反弹，精确地使用TNT需要一些练习。这也是一个易于学会但难以精通的法术的好例子。
+  * 在[追踪](追踪.md)修正的作用下，TNT可以附着在敌人身上，不过速度过快时也有可能飞过敌人。
+
+
+
+## 你知道吗？
+
+在抢先体验的很长一段时间内，这类召唤物理爆炸物的法术不受飞行路径修正的影响。 
+
+## 画廊
+
+[![](https://noita.wiki.gg/zh/images/Demo_dynamite.gif?7fd138)](/zh/wiki/File:Demo_dynamite.gif)
+
+[](https://noita.wiki.gg/zh/wiki/File%3ADemo%20dynamite.gif)
+
+用炸药攻击敌人
+
+  
+
+
+| [查看](https://noita.wiki.gg/zh/wiki/Template%3ASpellNav) **·** [讨论](https://noita.wiki.gg/zh/wiki/Template%20talk%3ASpellNav) **·** [编辑](https://noita.wiki.gg/zh/wiki/Template:SpellNav?action=edit) [全法术一览](法术.md)  
+---  
+| | [投射物类法术](Category%3A投射物法术.md)  
+---  
+| [](炸弹.md)[](火花弹.md)[](火花弹.md)[](火花弹.md)[](火花弹.md)[](魔法箭.md)[](魔法箭.md)[](魔法箭.md)[](魔法弹.md)[](魔法弹.md)[](魔法弹.md)[](强气流.md)[](能量球.md)[](能量球.md)[](能量球.md)[](抓钩魔弹.md)[](黑洞.md)[](黑洞.md)[](白洞.md)[](怪异传送门.md)[](分裂弹.md)[](分裂弹.md)[](分裂弹.md)[](分裂弹.md)[](分裂弹.md)[](分裂弹.md)[](泡泡火花.md)[](泡泡火花.md)[](碟状投射物.md)[](巨型碟状投射物.md)[](召唤终极锯片.md)[](弹性能量球.md)[](弹性能量球.md)[](弹跳爆发.md)[](箭矢.md)[](花粉.md)[](闪耀之枪.md)[](神圣投枪.md)[](魔法飞弹.md)[](魔法飞弹.md)[](魔法飞弹.md)[](火焰弹.md)[](火焰弹.md)[](火焰弹.md)[](火焰弹.md)[](火焰弹.md)[](坠落弹.md)[](不稳晶体.md)[](不稳晶体.md)[](休眠晶体.md)[](休眠晶体.md)[](召唤鱼.md)[](召唤鹿诱饵.md)[](鸭群.md)[](蠕虫发射器.md)[](汇聚之光.md)[](强烈汇聚之光.md)[](闪电弹.md)[](球状闪电.md)[](电浆束.md)[](电浆束十字.md)[](电浆切割器.md)[](挖掘魔弹.md)[](挖掘爆破.md)[](链锯.md)[](光明穿凿.md)[](光明穿凿.md)[](召唤触手.md)[](召唤触手.md)[](治疗魔弹.md)[](致命治愈.md)[](螺旋魔弹S.md)[](魔法护卫.md)[](魔法护卫.md)[](连锁魔弹.md)[](火球.md)[](陨石.md)[](火焰喷射器.md)[](冰球.md)[](粘液球.md)[](黑焰之道.md)[](召唤飞弹.md)[](BULLET%3F%3F%3F.md)[](召唤岩石精灵.md)[](##)[](闪烁炸弹.md)[](三联魔弹.md)[](冰冷凝视.md)[](聚爆光束.md)[](多刺孢子荚.md)[](胶球.md)[](神圣炸弹.md)[](神圣炸弹.md)[](丙烷罐.md)[](炸弹矿车.md)[](诅咒之球.md)[](扩张之球.md)[](地震.md)[](召唤岩石.md)[](召唤蛋.md)[](召唤空的蛋.md)[](召唤炸药箱.md)[](召唤炸药箱.md)[](酸液球.md)[](雷霆放射.md)[](火焰炸弹.md)[](死亡十字.md)[](死亡十字.md)[](侵扰.md)[](雾.md)[](雾.md)[](雾.md)[](雾.md)[](传送魔弹.md)[](传送魔弹.md)[](返回.md)[](交换者.md)[](抓取魔弹.md)[](核弹.md)[](核弹.md)[](烟火！.md)[](随机投射物法术.md)  
+---  
+  
+| | [静态投射物类法术](Category%3A静态投射物法术.md)  
+---  
+| [](巨型黑洞.md)[](巨型白洞.md)[](终极黑洞.md)[](终极白洞.md)[](炸药引爆器.md)[](召唤虫群.md)[](召唤虫群.md)[](召唤虫群.md)[](召唤友好苍蝇.md)[](屏障.md)[](屏障.md)[](屏障.md)[](盛大场面.md)[](延迟施法.md)[](毁灭.md)[](墨东姆托.md)[](爆炸.md)[](魔法爆炸.md)[](火焰爆炸.md)[](毒素爆炸.md)[](烈酒爆炸.md)[](雷霆爆炸.md)[](激情之环.md)[](变形之环.md)[](不稳变形之环.md)[](雷霆之环.md)[](静止之环.md)[](活力之环.md)[](位移之环.md)[](浮力之环.md)[](保护之环.md)[](投射物转化领域.md)[](投射物雷电领域.md)[](投射物重力领域.md)[](粉末真空场.md)[](液体真空场.md)[](真空场.md)[](雨云.md)[](油脂之云.md)[](血云.md)[](酸云.md)[](雷云.md)[](随机静态投射物法术.md)[](陨石雨.md)[](蠕虫雨.md)  
+---  
+  
+| | [被动类法术](Category%3A被动法术.md)  
+---  
+| [](火把.md)[](电子火把.md)[](能量盾.md)[](能量盾.md)[](召唤迷你幽灵.md)  
+---  
+  
+| | [实用类法术](Category%3A实用法术.md)  
+---  
+| [](召唤墙壁.md)[](召唤平台.md)[](远距离施放.md)[](传送施放（敌人位置）.md)[](传送施放.md)[](内在施法.md)[](召唤魔杖灵.md)[](阵型复制.md)[](阵型复制.md)[](阵型复制.md)[](阵型复制.md)[](阵型复制.md)[](阵型复制.md)[](阵型复制.md)[](血液魔法.md)[](黄金变力量.md)[](血液变力量.md)[](全知之眼.md)[](置换术.md)[](置换术.md)[](置换术.md)[](置换术.md)[](置换术.md)[](置换术.md)[](魔杖刷新.md)  
+---  
+  
+| | [投射物修正类法术](Category%3A投射修正法术.md)  
+---  
+| [](降低散射.md)[](沉重散射.md)[](缩减充能时间.md)[](延长存在时间.md)[](缩减存在时间.md)[](零时.md)[](缓慢但坚定.md)[](移除爆炸.md)[](聚爆.md)[](电浆束增强器.md)[](额外法力.md)[](量子分割.md)[](重力.md)[](反重力.md)[](蛇行.md)[](混乱之路.md)[](乒乓回弹.md)[](规避弧度.md)[](悬浮弧度.md)[](向下飞行.md)[](向上飞行.md)[](水平路径.md)[](线性弧.md)[](盘旋魔弹.md)[](螺旋路径.md)[](相位弧度.md)[](行星环绕.md)[](弹跳.md)[](移除弹跳.md)[](追踪.md)[](反追踪.md)[](魔杖追踪.md)[](短距离追踪.md)[](转向敌人.md)[](回旋镖.md)[](自动瞄准.md)[](加速追踪.md)[](瞄准弧度.md)[](投射物区域传送.md)[](穿刺魔弹.md)[](穿透射击.md)[](伤害增强.md)[](随机伤害.md)[](嗜血.md)[](法力转伤害.md)[](暴击增强.md)[](https://noita.wiki.gg/zh/wiki/%E4%BC%A4%E5%AE%B3%E9%A2%86%E5%9F%9F%5C(%E6%B3%95%E6%9C%AF%5C)## "伤害领域\(法术\)")[](法术变力量.md)[](精华变力量.md)[](无害化.md)[](沉重一击.md)[](轻盈一击.md)[](击退.md)[](后座力.md)[](后座阻尼器.md)[](加速.md)[](逐渐加速.md)[](逐渐减速.md)[](易爆的投射物.md)[](霰爆弹.md)[](化水为毒.md)[](溶血为酸.md)[](熔岩化血.md)[](液体引爆.md)[](毒性淤泥酸液化.md)[](化地为砂.md)[](混乱转化.md)[](混沌魔法.md)[](死灵之术.md)[](光.md)[](电荷放射.md)[](物质吞噬者.md)[](冰冻放射.md)[](燃烧时暴击.md)[](潮湿（浸水）敌人暴击.md)[](油污敌人暴击.md)[](染血敌人暴击.md)[](毒性淤泥魅惑.md)[](粘液敌人爆炸.md)[](粘液敌人爆炸.md)[](醉酒敌人爆炸.md)[](醉酒敌人爆炸.md)[](石化.md)[](下方向集束魔弹.md)[](八角形集束魔弹.md)[](闪灭.md)[](易爆的弹跳.md)[](泡泡弹跳.md)[](激光弹跳.md)[](电浆束弹跳.md)[](拉帕弹跳.md)[](火花弹跳.md)[](闪电弹跳.md)[](真空弹跳.md)[](火球发射器.md)[](闪电发射器.md)[](触手怪.md)[](电浆束发射器.md)[](双向火球发射器.md)[](专属火球发射器.md)[](专属闪电投射器.md)[](专属触手怪.md)[](专属重力领域.md)[](猛毒诅咒.md)[](削弱诅咒.md)[](削弱诅咒.md)[](削弱诅咒.md)[](削弱诅咒.md)[](锯刃环绕.md)[](火球环绕.md)[](核弹环绕.md)[](电浆束环绕.md)[](环绕拉帕.md)[](连锁法术.md)[](电弧.md)[](火焰弧.md)[](火药弧.md)[](毒液弧.md)[](地震魔弹.md)[](爆竹.md)[](酸液轨迹.md)[](毒素轨迹.md)[](油液轨迹.md)[](清水轨迹.md)[](火药轨迹.md)[](火焰轨迹.md)[](燃烧轨迹.md)[](投射物能量盾.md)[](随机修正法术.md)[](混沌拉帕.md)[](向下拉帕.md)[](向上拉帕.md)[](复制轨迹.md)[](拉帕爆炸.md)[](闪光法术.md)[](闪光法术.md)[](闪光法术.md)[](闪光法术.md)[](闪光法术.md)[](闪光法术.md)[](闪光法术.md)[](闪光法术.md)[](彩虹轨迹.md)  
+---  
+  
+| | [材料类法术](Category%3A材料法术.md)  
+---  
+| [](一把泥土.md)[](烈火之环.md)[](酸液之环.md)[](油液之环.md)[](清水之环.md)[](液滴法术.md)[](液滴法术.md)[](液滴法术.md)[](液滴法术.md)[](液滴法术.md)[](法术之触.md)[](法术之触.md)[](法术之触.md)[](法术之触.md)[](黄金之触？.md)[](草之触.md)[](法术之触.md)[](法术之触.md)[](岩浆之海.md)[](酒精之海.md)[](油脂之海.md)[](水之海.md)[](沼泽之海.md)[](酸液之海.md)[](可燃气体之海.md)[](拟态之海.md)  
+---  
+  
+| | [多重施放类法术](Category%3A多重释放.md)  
+---  
+| [](多重法术.md)[](多重法术.md)[](多重法术.md)[](多重法术.md)[](多重法术.md)[](多重散射法术.md)[](多重散射法术.md)[](多重散射法术.md)[](阵型.md)[](阵型.md)[](阵型.md)[](阵型.md)[](阵型.md)[](阵型.md)  
+---  
+  
+| | [其他类法术](Category%3A其他法术.md)  
+---  
+| [](法术复制.md)[](音符法术.md)[](音符法术.md)[](音符法术.md)[](音符法术.md)[](音符法术.md)[](音符法术.md)[](音符法术.md)[](音符法术.md)[](音符法术.md)[](音符法术.md)[](音符法术.md)[](音符法术.md)[](音符法术.md)[](随机法术.md)[](复制随机法术.md)[](复制随机法术.md)[](复制三个随机法术.md)[](万物之终结.md)[](召唤传送门.md)[](追加触发.md)[](追加触发.md)[](追加触发.md)[](初始.md)[](伽马.md)[](陶.md)[](终结.md)[](谬.md)[](斐.md)[](西格玛.md)[](泽塔.md)[](一分为多.md)[](一分为多.md)[](一分为多.md)[](一分为多.md)[](https://noita.wiki.gg/zh/wiki/%E6%9D%A1%E4%BB%B6%E8%A6%81%E6%B1%82%5C(%E6%B3%95%E6%9C%AF%5C)## "条件要求\(法术\)")[](https://noita.wiki.gg/zh/wiki/%E6%9D%A1%E4%BB%B6%E8%A6%81%E6%B1%82%5C(%E6%B3%95%E6%9C%AF%5C)## "条件要求\(法术\)")[](https://noita.wiki.gg/zh/wiki/%E6%9D%A1%E4%BB%B6%E8%A6%81%E6%B1%82%5C(%E6%B3%95%E6%9C%AF%5C)## "条件要求\(法术\)")[](https://noita.wiki.gg/zh/wiki/%E6%9D%A1%E4%BB%B6%E8%A6%81%E6%B1%82%5C(%E6%B3%95%E6%9C%AF%5C)## "条件要求\(法术\)")[](https://noita.wiki.gg/zh/wiki/%E6%9D%A1%E4%BB%B6%E8%A6%81%E6%B1%82%5C(%E6%B3%95%E6%9C%AF%5C)## "条件要求\(法术\)")[](https://noita.wiki.gg/zh/wiki/%E6%9D%A1%E4%BB%B6%E8%A6%81%E6%B1%82%5C(%E6%B3%95%E6%9C%AF%5C)## "条件要求\(法术\)")[](遁入虚空.md)  
+---
+  *[没有对应音频]: no audio file named Neva-Aave.mp3 was found
+  *[1/820]: 0.121%
+  *[1/598]: 0.167%
+  *[1/44.5]: 2.244%
+  *[1/93.3]: 1.070%
+  *[1/172]: 0.580%
+  *[1/185]: 0.538%
+  *[1/238]: 0.419%

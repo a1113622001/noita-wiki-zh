@@ -1,0 +1,126 @@
+# 带有[chaotic_transmutation]标签的材料
+
+**分类:** [Category:材料标签分类页面](Category%3A材料标签分类页面.md) · [Category:材料](Category%3A材料.md)
+**来源:** https://noita.wiki.gg/zh/wiki/Category%3A%E5%B8%A6%E6%9C%89chaotic%20transmutation%E6%A0%87%E7%AD%BE%E7%9A%84%E6%9D%90%E6%96%99
+---
+
+## 材料列表
+
+[![砂](https://noita.wiki.gg/images/thumb/Material_sand.png/130px-Material_sand.png?510a58)](/zh/wiki/%E7%A0%82 "砂") **[砂](砂.md)**[![Materialpotion sand.png](https://noita.wiki.gg/images/Materialpotion_sand.png?9ca706)](/zh/wiki/%E7%A0%82 "砂")[![Materialpouch sand.png](https://noita.wiki.gg/images/Materialpouch_sand.png?93a80d)](/zh/wiki/%E7%A0%82 "砂") [sand](砂.md)`sand` [![蓝砂](https://noita.wiki.gg/images/thumb/Material_sand_blue.png/130px-Material_sand_blue.png?77d054)](/zh/wiki/%E7%A0%82 "蓝砂") **[蓝砂](砂.md)**[![Materialpotion sand blue.png](https://noita.wiki.gg/images/Materialpotion_sand_blue.png?6d1ddb)](/zh/wiki/%E7%A0%82 "砂")[![Materialpouch sand blue.png](https://noita.wiki.gg/images/Materialpouch_sand_blue.png?4819bb)](/zh/wiki/%E7%A0%82 "砂") [blue sand](砂.md)`sand_blue` [![砂](https://noita.wiki.gg/images/thumb/Material_sand_surface.png/130px-Material_sand_surface.png?71e5f5)](/zh/wiki/%E7%A0%82 "砂") **[砂](砂.md)**[![Materialpotion sand surface.png](https://noita.wiki.gg/images/Materialpotion_sand_surface.png?9ca706)](/zh/wiki/%E7%A0%82 "砂")[![Materialpouch sand surface.png](https://noita.wiki.gg/images/Materialpouch_sand_surface.png?93a80d)](/zh/wiki/%E7%A0%82 "砂") [sand](砂.md)`sand_surface` [![火山砂](https://noita.wiki.gg/images/thumb/Material_lavasand.png/130px-Material_lavasand.png?82bf01)](/zh/wiki/%E7%A0%82 "火山砂") **[火山砂](砂.md)**[![Materialpotion lavasand.png](https://noita.wiki.gg/images/Materialpotion_lavasand.png?90f4fe)](/zh/wiki/%E7%A0%82 "砂")[![Materialpouch lavasand.png](https://noita.wiki.gg/images/Materialpouch_lavasand.png?32a7f0)](/zh/wiki/%E7%A0%82 "砂") [volcanic sand](砂.md)`lavasand` [![砂](https://noita.wiki.gg/images/thumb/Material_sand_petrify.png/130px-Material_sand_petrify.png?d04f4a)](/zh/wiki/%E7%A0%82 "砂") **[砂](砂.md)**[![Materialpotion sand petrify.png](https://noita.wiki.gg/images/Materialpotion_sand_petrify.png?2699c6)](/zh/wiki/%E7%A0%82 "砂")[![Materialpouch sand petrify.png](https://noita.wiki.gg/images/Materialpouch_sand_petrify.png?a05c4c)](/zh/wiki/%E7%A0%82 "砂") [sand](砂.md)`sand_petrify` [![骨粉](https://noita.wiki.gg/images/thumb/Material_bone.png/130px-Material_bone.png?ff7bde)](/zh/wiki/%E9%AA%A8%E7%81%B0 "骨粉") **[骨粉](骨灰.md)**[![Materialpotion bone.png](https://noita.wiki.gg/images/Materialpotion_bone.png?b5c181)](/zh/wiki/%E9%AA%A8%E7%81%B0 "骨灰")[![Materialpouch bone.png](https://noita.wiki.gg/images/Materialpouch_bone.png?b7b2af)](/zh/wiki/%E9%AA%A8%E7%81%B0 "骨灰") [bone dust](骨灰.md)`bone` [![蜂蜜](https://noita.wiki.gg/images/thumb/Material_honey.png/130px-Material_honey.png?b64031)](/zh/wiki/%E8%9C%82%E8%9C%9C "蜂蜜") **[蜂蜜](蜂蜜.md)**[![Materialpotion honey.png](https://noita.wiki.gg/images/Materialpotion_honey.png?ec2509)](/zh/wiki/%E8%9C%82%E8%9C%9C "蜂蜜")[![Materialpouch honey.png](https://noita.wiki.gg/images/Materialpouch_honey.png?bf3f65)](/zh/wiki/%E8%9C%82%E8%9C%9C "蜂蜜") [honey](蜂蜜.md)`honey` [![紫色黏液](https://noita.wiki.gg/images/thumb/Material_slime.png/130px-Material_slime.png?86740b)](/zh/wiki/%E9%BB%8F%E6%B6%B2 "紫色黏液") **[紫色黏液](黏液.md)**[![Materialpotion slime.png](https://noita.wiki.gg/images/Materialpotion_slime.png?7cedd8)](/zh/wiki/%E9%BB%8F%E6%B6%B2 "黏液") [slime](黏液.md)`slime` [![绿色黏液](https://noita.wiki.gg/images/thumb/Material_slime_green.png/130px-Material_slime_green.png?44fb95)](/zh/wiki/%E9%BB%8F%E6%B6%B2 "绿色黏液") **[绿色黏液](黏液.md)**[![Materialpotion slime green.png](https://noita.wiki.gg/images/Materialpotion_slime_green.png?7280f6)](/zh/wiki/%E9%BB%8F%E6%B6%B2 "黏液") [slime](黏液.md)`slime_green` [![雪泥](https://noita.wiki.gg/images/thumb/Material_slush.png/130px-Material_slush.png?16402c)](/zh/wiki/%E9%9B%AA "雪泥") **[雪泥](雪.md)**[![Materialpotion slush.png](https://noita.wiki.gg/images/Materialpotion_slush.png?221f6c)](/zh/wiki/%E9%9B%AA "雪") [Slush](雪.md)`slush` [![豌豆汤](https://noita.wiki.gg/images/thumb/Material_pea_soup.png/130px-Material_pea_soup.png?b16f0d)](/zh/wiki/%E8%B1%8C%E8%B1%86%E6%B1%A4 "豌豆汤") **[豌豆汤](豌豆汤.md)**[![Materialpotion pea soup.png](https://noita.wiki.gg/images/Materialpotion_pea_soup.png?7280f6)](/zh/wiki/%E8%B1%8C%E8%B1%86%E6%B1%A4 "豌豆汤") [pea soup](豌豆汤.md)`pea_soup` [![地狱黏液](https://noita.wiki.gg/images/thumb/Material_endslime.png/130px-Material_endslime.png?6f4806)](/zh/wiki/%E5%9C%B0%E7%8B%B1%E9%BB%8F%E6%B6%B2 "地狱黏液") **[地狱黏液](地狱黏液.md)**[![Materialpotion endslime.png](https://noita.wiki.gg/images/Materialpotion_endslime.png?c2c903)](/zh/wiki/%E5%9C%B0%E7%8B%B1%E9%BB%8F%E6%B6%B2 "地狱黏液") [hell slime](地狱黏液.md)`endslime` [![雪](https://noita.wiki.gg/images/thumb/Material_snow.png/130px-Material_snow.png?51d5b4)](/zh/wiki/%E9%9B%AA "雪") **[雪](雪.md)**[![Materialpotion snow.png](https://noita.wiki.gg/images/Materialpotion_snow.png?aad491)](/zh/wiki/%E9%9B%AA "雪")[![Materialpouch snow.png](https://noita.wiki.gg/images/Materialpouch_snow.png?72694a)](/zh/wiki/%E9%9B%AA "雪") [snow](雪.md)`snow` [![煤](https://noita.wiki.gg/images/thumb/Material_coal.png/130px-Material_coal.png?930a8c)](/zh/wiki/%E7%85%A4 "煤") **[煤](煤.md)**[![Materialpotion coal.png](https://noita.wiki.gg/images/Materialpotion_coal.png?385810)](/zh/wiki/%E7%85%A4 "煤")[![Materialpouch coal.png](https://noita.wiki.gg/images/Materialpouch_coal.png?cc2d07)](/zh/wiki/%E7%85%A4 "煤") [coal](煤.md)`coal` [![盐](https://noita.wiki.gg/images/thumb/Material_salt.png/130px-Material_salt.png?ced742)](/zh/wiki/%E7%9B%90 "盐") **[盐](盐.md)**[![Materialpotion salt.png](https://noita.wiki.gg/images/Materialpotion_salt.png?9ca706)](/zh/wiki/%E7%9B%90 "盐")[![Materialpouch salt.png](https://noita.wiki.gg/images/Materialpouch_salt.png?93a80d)](/zh/wiki/%E7%9B%90 "盐") [salt](盐.md)`salt` [![钠](https://noita.wiki.gg/images/thumb/Material_sodium.png/130px-Material_sodium.png?58461f)](/zh/wiki/%E9%92%A0 "钠") **[钠](钠.md)**[![Materialpotion sodium.png](https://noita.wiki.gg/images/Materialpotion_sodium.png?a62976)](/zh/wiki/%E9%92%A0 "钠")[![Materialpouch sodium.png](https://noita.wiki.gg/images/Materialpouch_sodium.png?125ec7)](/zh/wiki/%E9%92%A0 "钠") [sodium](钠.md)`sodium` [![净化粉末](https://noita.wiki.gg/images/thumb/Material_purifying_powder.png/130px-Material_purifying_powder.png?19d8f7)](/zh/wiki/%E5%87%80%E5%8C%96%E7%B2%89%E6%9C%AB "净化粉末") **[净化粉末](净化粉末.md)**[![Materialpotion purifying powder.png](https://noita.wiki.gg/images/Materialpotion_purifying_powder.png?e5d2fd)](/zh/wiki/%E5%87%80%E5%8C%96%E7%B2%89%E6%9C%AB "净化粉末")[![Materialpouch purifying powder.png](https://noita.wiki.gg/images/Materialpouch_purifying_powder.png?81c719)](/zh/wiki/%E5%87%80%E5%8C%96%E7%B2%89%E6%9C%AB "净化粉末") [Purifying powder](净化粉末.md)`purifying_powder` [![燃烧粉末](https://noita.wiki.gg/images/thumb/Material_burning_powder.png/130px-Material_burning_powder.png?b2687c)](/zh/wiki/%E7%87%83%E7%83%A7%E7%B2%89%E6%9C%AB "燃烧粉末") **[燃烧粉末](燃烧粉末.md)**[![Materialpotion burning powder.png](https://noita.wiki.gg/images/Materialpotion_burning_powder.png?8aadac)](/zh/wiki/%E7%87%83%E7%83%A7%E7%B2%89%E6%9C%AB "燃烧粉末")[![Materialpouch burning powder.png](https://noita.wiki.gg/images/Materialpouch_burning_powder.png?a421f5)](/zh/wiki/%E7%87%83%E7%83%A7%E7%B2%89%E6%9C%AB "燃烧粉末") [burning powder](燃烧粉末.md)`burning_powder` [![火药](https://noita.wiki.gg/images/thumb/Material_gunpowder.png/130px-Material_gunpowder.png?697fbb)](/zh/wiki/%E7%81%AB%E8%8D%AF "火药") **[火药](火药.md)**[![Materialpotion gunpowder.png](https://noita.wiki.gg/images/Materialpotion_gunpowder.png?9ca706)](/zh/wiki/%E7%81%AB%E8%8D%AF "火药")[![Materialpouch gunpowder.png](https://noita.wiki.gg/images/Materialpouch_gunpowder.png?93a80d)](/zh/wiki/%E7%81%AB%E8%8D%AF "火药") [gunpowder](火药.md)`gunpowder` [![易爆火药](https://noita.wiki.gg/images/thumb/Material_gunpowder_explosive.png/130px-Material_gunpowder_explosive.png?314543)](/zh/wiki/%E7%81%AB%E8%8D%AF "易爆火药") **[易爆火药](火药.md)**[![Materialpotion gunpowder explosive.png](https://noita.wiki.gg/images/Materialpotion_gunpowder_explosive.png?dc74e5)](/zh/wiki/%E7%81%AB%E8%8D%AF "火药")[![Materialpouch gunpowder explosive.png](https://noita.wiki.gg/images/Materialpouch_gunpowder_explosive.png?e9e39f)](/zh/wiki/%E7%81%AB%E8%8D%AF "火药") [gunpowder](火药.md)`gunpowder_explosive` [![不稳火药](https://noita.wiki.gg/images/thumb/Material_gunpowder_unstable.png/130px-Material_gunpowder_unstable.png?9c244b)](/zh/wiki/%E7%81%AB%E8%8D%AF "不稳火药") **[不稳火药](火药.md)**[![Materialpotion gunpowder unstable.png](https://noita.wiki.gg/images/Materialpotion_gunpowder_unstable.png?9ca706)](/zh/wiki/%E7%81%AB%E8%8D%AF "火药")[![Materialpouch gunpowder unstable.png](https://noita.wiki.gg/images/Materialpouch_gunpowder_unstable.png?93a80d)](/zh/wiki/%E7%81%AB%E8%8D%AF "火药") [gunpowder](火药.md)`gunpowder_unstable` [![水](https://noita.wiki.gg/images/thumb/Material_water.png/130px-Material_water.png?a69c31)](/zh/wiki/%E6%B0%B4 "水") **[水](水.md)**[![Materialpotion water.png](https://noita.wiki.gg/images/Materialpotion_water.png?ee760d)](/zh/wiki/%E6%B0%B4 "水") [Water](水.md)`water` [![水雾](https://noita.wiki.gg/images/thumb/Material_water_fading.png/130px-Material_water_fading.png?a69c31)](/zh/wiki/%E6%B0%B4 "水雾") **[水雾](水.md)**[![Materialpotion water fading.png](https://noita.wiki.gg/images/Materialpotion_water_fading.png?ee760d)](/zh/wiki/%E6%B0%B4 "水") [Water](水.md)`water_fading` [![冰水](https://noita.wiki.gg/images/thumb/Material_water_ice.png/130px-Material_water_ice.png?13103c)](/zh/wiki/%E6%B0%B4 "冰水") **[冰水](水.md)**[![Materialpotion water ice.png](https://noita.wiki.gg/images/Materialpotion_water_ice.png?db91e9)](/zh/wiki/%E6%B0%B4 "水") [chilly water](水.md)`water_ice` [![油](https://noita.wiki.gg/images/thumb/Material_oil.png/130px-Material_oil.png?99a6df)](/zh/wiki/%E6%B2%B9 "油") **[油](油.md)**[![Materialpotion oil.png](https://noita.wiki.gg/images/Materialpotion_oil.png?db5fb6)](/zh/wiki/%E6%B2%B9 "油") [oil](油.md)`oil` [![威士忌](https://noita.wiki.gg/images/thumb/Material_alcohol.png/130px-Material_alcohol.png?3d8000)](/zh/wiki/%E5%A8%81%E5%A3%AB%E5%BF%8C "威士忌") **[威士忌](威士忌.md)**[![Materialpotion alcohol.png](https://noita.wiki.gg/images/Materialpotion_alcohol.png?cdf733)](/zh/wiki/%E5%A8%81%E5%A3%AB%E5%BF%8C "威士忌") [whiskey](威士忌.md)`alcohol` [![黑沼泽](https://noita.wiki.gg/images/thumb/Material_swamp.png/130px-Material_swamp.png?f56fff)](/zh/wiki/%E6%B2%BC%E6%B3%BD "黑沼泽") **[黑沼泽](沼泽.md)**[![Materialpotion swamp.png](https://noita.wiki.gg/images/Materialpotion_swamp.png?14f3b7)](/zh/wiki/%E6%B2%BC%E6%B3%BD "沼泽") [swamp](沼泽.md)`swamp` [![血液](https://noita.wiki.gg/images/thumb/Material_blood.png/130px-Material_blood.png?db7711)](/zh/wiki/%E8%A1%80%E6%B6%B2 "血液") **[血液](血液.md)**[![Materialpotion blood.png](https://noita.wiki.gg/images/Materialpotion_blood.png?6649a6)](/zh/wiki/%E8%A1%80%E6%B6%B2 "血液") [blood](血液.md)`blood` [![血液](https://noita.wiki.gg/images/thumb/Material_blood_fading_slow.png/130px-Material_blood_fading_slow.png?db7711)](/zh/wiki/%E8%A1%80%E6%B6%B2 "血液") **[血液](血液.md)**[![Materialpotion blood fading slow.png](https://noita.wiki.gg/images/Materialpotion_blood_fading_slow.png?6649a6)](/zh/wiki/%E8%A1%80%E6%B6%B2 "血液") [blood](血液.md)`blood_fading_slow` [![真菌血液](https://noita.wiki.gg/images/thumb/Material_blood_fungi.png/130px-Material_blood_fungi.png?5726ad)](/zh/wiki/%E7%9C%9F%E8%8F%8C%E8%A1%80%E6%B6%B2 "真菌血液") **[真菌血液](真菌血液.md)**[![Materialpotion blood fungi.png](https://noita.wiki.gg/images/Materialpotion_blood_fungi.png?cd35a4)](/zh/wiki/%E7%9C%9F%E8%8F%8C%E8%A1%80%E6%B6%B2 "真菌血液") [fungus blood](真菌血液.md)`blood_fungi` [![蠕虫血液](https://noita.wiki.gg/images/thumb/Material_blood_worm.png/130px-Material_blood_worm.png?7b6132)](/zh/wiki/%E8%A0%95%E8%99%AB%E8%A1%80%E6%B6%B2 "蠕虫血液") **[蠕虫血液](蠕虫血液.md)**[![Materialpotion blood worm.png](https://noita.wiki.gg/images/Materialpotion_blood_worm.png?3a74ff)](/zh/wiki/%E8%A0%95%E8%99%AB%E8%A1%80%E6%B6%B2 "蠕虫血液") [worm blood](蠕虫血液.md)`blood_worm` [![绿色毒液](https://noita.wiki.gg/images/thumb/Material_radioactive_liquid.png/130px-Material_radioactive_liquid.png?100bba)](/zh/wiki/%E6%AF%92%E6%80%A7%E6%B7%A4%E6%B3%A5 "绿色毒液") **[绿色毒液](毒性淤泥.md)**[![Materialpotion radioactive liquid.png](https://noita.wiki.gg/images/Materialpotion_radioactive_liquid.png?d8e610)](/zh/wiki/%E6%AF%92%E6%80%A7%E6%B7%A4%E6%B3%A5 "毒性淤泥") [toxic sludge](毒性淤泥.md)`radioactive_liquid` [![黄色毒液](https://noita.wiki.gg/images/thumb/Material_radioactive_liquid_yellow.png/130px-Material_radioactive_liquid_yellow.png?100bba)](/zh/wiki/%E6%AF%92%E6%80%A7%E6%B7%A4%E6%B3%A5 "黄色毒液") **[黄色毒液](毒性淤泥.md)**[![Materialpotion radioactive liquid yellow.png](https://noita.wiki.gg/images/Materialpotion_radioactive_liquid_yellow.png?d8e610)](/zh/wiki/%E6%AF%92%E6%80%A7%E6%B7%A4%E6%B3%A5 "毒性淤泥") [toxic sludge](毒性淤泥.md)`radioactive_liquid_yellow` [![酸液](https://noita.wiki.gg/images/thumb/Material_acid.png/130px-Material_acid.png?2b35aa)](/zh/wiki/%E9%85%B8%E6%B6%B2 "酸液") **[酸液](酸液.md)**[![Materialpotion acid.png](https://noita.wiki.gg/images/Materialpotion_acid.png?af04bb)](/zh/wiki/%E9%85%B8%E6%B6%B2 "酸液") [acid](酸液.md)`acid` [![岩浆](https://noita.wiki.gg/images/thumb/Material_lava.png/130px-Material_lava.png?752fdc)](/zh/wiki/%E5%B2%A9%E6%B5%86 "岩浆") **[岩浆](岩浆.md)**[![Materialpotion lava.png](https://noita.wiki.gg/images/Materialpotion_lava.png?979f2d)](/zh/wiki/%E5%B2%A9%E6%B5%86 "岩浆") [lava](岩浆.md)`lava` [![致密血液](https://noita.wiki.gg/images/thumb/Material_blood_thick.png/130px-Material_blood_thick.png?24cae5)](/zh/wiki/%E8%A1%80%E6%B6%B2 "致密血液") **[致密血液](血液.md)** [blood](血液.md)`blood_thick`  
+---  
+  
+## 反应
+
+_很抱歉，该标签不涉及任何反应_
+  *[没有对应音频]: no audio file named Neva-Aave.mp3 was found
+  *[1/820]: 0.121%
+  *[1/598]: 0.167%
+  *[1/44.5]: 2.244%
+  *[1/93.3]: 1.070%
+  *[1/172]: 0.580%
+  *[1/185]: 0.538%
+  *[1/238]: 0.419%
+  *[1/649]: 0.153%
+  *[1/417]: 0.239%
+  *[1/410]: 0.243%
+  *[1/59.8]: 1.672%
+  *[1/1428]: 0.069%
+  *[1/1252]: 0.079%
+  *[1/105]: 0.951%
+  *[1/129]: 0.769%
+  *[1/166]: 0.598%
+  *[1/84]: 1.189%
+  *[1/153]: 0.653%
+  *[1/144]: 0.692%
+  *[1/420]: 0.237%
+  *[1/275]: 0.363%
+  *[1/204]: 0.489%
+  *[1/280]: 0.356%
+  *[1/459]: 0.217%
+  *[1/259]: 0.384%
+  *[1/273]: 0.365%
+  *[1/173]: 0.577%
+  *[1/142]: 0.699%
+  *[1/164]: 0.609%
+  *[1/137]: 0.726%
+  *[1/82]: 1.218%
+  *[1/168]: 0.594%
+  *[1/229]: 0.435%
+  *[1/357]: 0.279%
+  *[1/1377]: 0.072%
+  *[1/324]: 0.307%
+  *[1/285]: 0.349%
+  *[1/313]: 0.319%
+  *[1/688]: 0.145%
+  *[1/250]: 0.399%
+  *[1/178]: 0.559%
+  *[1/156]: 0.638%
+  *[1/117]: 0.853%
+  *[1/210]: 0.475%
+  *[1/891]: 0.112%
+  *[1/1681]: 0.059%
+  *[1/162]: 0.615%
+  *[1/102]: 0.974%
+  *[1/140]: 0.713%
+  *[1/74.2]: 1.346%
+  *[1/205]: 0.487%
+  *[1/208]: 0.479%
+  *[1/344]: 0.290%
+  *[1/136]: 0.731%
+  *[1/148]: 0.673%
+  *[1/433]: 0.230%
+  *[1/714]: 0.139%
+  *[1/55.6]: 1.795%
+  *[1/216]: 0.461%
+  *[1/476]: 0.209%
+  *[1/299]: 0.334%
+  *[1/158]: 0.629%
+  *[1/89.1]: 1.122%
+  *[1/125]: 0.798%
+  *[1/192]: 0.519%
+  *[1/840]: 0.118%
+  *[1/8206]: 0.012%
+  *[1/445]: 0.224%
+  *[1/626]: 0.159%
+  *[1/196]: 0.508%
+  *[1/149]: 0.668%
+  *[1/63.6]: 1.571%
+  *[1/1721]: 0.058%
+  *[1/12.9k]: 0.007%
+  *[1/14.2k]: 0.006%
+  *[1/12.5k]: 0.007%
+  *[1/1299]: 0.076%
+  *[1/317]: 0.314%
+  *[1/288]: 0.346%
+  *[1/91.1]: 1.096%
+  *[1/111]: 0.897%
+  *[1/120]: 0.832%
+  *[1/119]: 0.836%
+  *[RNG]: 随机数生成器
+  *[PRNG]: 伪随机数生成器
+  *[1/222]: 0.448%
+  *[1/2599]: 0.038%
+  *[1/109]: 0.913%
+  *[1/199]: 0.501%
+  *[1/2857]: 0.034%
+  *[HP]: 生命值
+  *[1/6]: 16.66%
+  *[1/236]: 0.423%
+  *[1/519]: 0.192%
+  *[1/336]: 0.297%
+  *[1/22.2]: 4.489%
+  *[1/219]: 0.454%
+  *[1/2754]: 0.036%
+  *[1/139]: 0.718%
+  *[1/1641]: 0.060%
+  *[1/99.6]: 1.003%
+  *[1/59.4]: 1.683%
+  *[1/211]: 0.472%
+  *[1/8.4M]: 1.189%
+  *[1/1786]: 0.055%
+  *[1/500]: 0.199%
+  *[1/328]: 0.304%
+  *[1/550]: 0.181%
+  *[1/3577]: 0.027%
+  *[1/2344]: 0.042%
+  *[1/17.1]: 5.833%

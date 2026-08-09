@@ -1,0 +1,196 @@
+# 奇石
+
+**分类:** [Category:Stubs](Category%3AStubs.md) · [Category:需要补充图片的页面](Category%3A需要补充图片的页面.md) · [[Category:Pages_with_pronunciations]] · [Category:敌人](Category%3A敌人.md)
+**来源:** https://noita.wiki.gg/zh/wiki/Kivi
+---
+
+[![Effect Invisibility.png](https://noita.wiki.gg/zh/images/thumb/Effect_Invisibility.png/44px-Effect_Invisibility.png?887c92)](/zh/wiki/File:Effect_Invisibility.png)  
+  
+_本页面的内容不完善或仍需整理。来帮助我们[完善它](https://noita.wiki.gg/zh/wiki/Kivi?action=edit)吧！_
+
+[![Images needed](https://noita.wiki.gg/zh/images/thumb/Perk_map.png/48px-Perk_map.png?992785)](/zh/wiki/File:Perk_map.png "Images needed")
+
+_本页面可以通过[补充图片](Category%3A需要补充图片的页面.md)，截图或者是GIF来提高文章质量。 你可以帮助Noita Wiki去为这个页面[上传](https://noita.wiki.gg/zh/wiki/Special%3A%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6)新的图片！_
+
+  * 奇石
+
+
+
+
+## 奇石
+
+[ ![Monster boss sky.png](https://noita.wiki.gg/images/Monster_boss_sky.png?336f88) ](/zh/wiki/File:Monster_boss_sky.png "Monster boss sky.png") _"石头"_
+
+![Monster boss sky.png](https://noita.wiki.gg/images/thumb/Monster_boss_sky.png/40px-Monster_boss_sky.png?336f88)
+
+## 生成地点
+
+### 普通
+
+[奇威神庙](奇威神庙.md)
+
+## 生命值
+
+玩家的最大生命值 ♥
+
+## 属性
+
+### 暴击抗性
+
+### 阵营(代码内定)[ⓘ](敌人阵营.md)
+
+免疫
+
+`ghost`
+
+### ID
+
+`boss_sky`
+
+## 免疫
+
+[![变形免疫：不会被变形](https://noita.wiki.gg/zh/images/thumb/Evil_protection_polymorph.png/40px-Evil_protection_polymorph.png?e0331d)](/zh/wiki/%E5%85%8D%E7%96%AB#变形免疫 "变形免疫：不会被变形")
+
+[![胶球免疫：不会被胶球粘住](https://noita.wiki.gg/zh/images/thumb/Evil_protection_glue.png/40px-Evil_protection_glue.png?cf2c5b)](/zh/wiki/%E5%85%8D%E7%96%AB#胶球免疫 "胶球免疫：不会被胶球粘住")
+
+[![点金免疫：无视法术之触等带来的诅咒伤害](https://noita.wiki.gg/zh/images/thumb/Evil_protection_touch_magic.png/40px-Evil_protection_touch_magic.png?b0aaf3)](/zh/wiki/%E5%85%8D%E7%96%AB#点金免疫 "点金免疫：无视法术之触等带来的诅咒伤害")
+
+[![窒息免疫：不会窒息](https://noita.wiki.gg/zh/images/thumb/Evil_protection_breath.png/40px-Evil_protection_breath.png?43f40d)](/zh/wiki/%E5%85%8D%E7%96%AB#窒息免疫 "窒息免疫：不会窒息")
+
+[![燃烧免疫：不会被点燃](https://noita.wiki.gg/zh/images/thumb/Evil_protection_burn.png/40px-Evil_protection_burn.png?c7f240)](/zh/wiki/%E5%85%8D%E7%96%AB#燃烧免疫 "燃烧免疫：不会被点燃")
+
+[![复活免疫：不会被复苏机器人复活](https://noita.wiki.gg/zh/images/thumb/Evil_protection_necro.png/40px-Evil_protection_necro.png?d9b930)](/zh/wiki/%E5%85%8D%E7%96%AB#复活免疫 "复活免疫：不会被复苏机器人复活")
+
+## 
+
+承伤系数[ⓘ](伤害类型.md)
+
+  * 投射物 1.0
+  * 近战 1.0
+  * 穿凿 0.5
+  * 切割 1.0
+  * 火焰 0.2
+  * 冰冻 1.0
+  * 雷电 1.0
+  * 爆炸 1.0
+  * 绿毒 1.0
+  * 神圣 1.0
+
+
+
+## 掉落物
+
+  * 三个[鬼影](Kummitus.md)
+
+
+
+**奇石**
+
+([_发音_](https://noita.wiki.gg/zh/wiki/File%3AKivi.mp3) [![Audio.svg](https://commons.wiki.gg/images/Audio.svg?fe3ac3)](/zh/wiki/File:Kivi.mp3 "File:Kivi.mp3"))
+
+(别名奇威，游戏内名为Kivi，字面意思是石头) 是一个小[BOSS](敌人.md)。 
+
+可以在[天空神庙#奇石神庙](天空神庙.md)找到，位于[沙漠](沙漠.md)上方，[天空神庙](天空神庙.md)的最东边。它看起来就像一块简单的石头，会沿着竞技场的地板滚动。最大生命值和玩家的生命值相等。 
+
+## 行为
+
+奇石不会主动去攻击玩家，在奇石神庙中四处乱滚。奇石身边有一个领域，能移除玩家身上的[![绝对防御](https://noita.wiki.gg/zh/images/thumb/Effect_protection_all.png/16px-Effect_protection_all.png?a8448f)](/zh/wiki/%E7%8A%B6%E6%80%81#绝对防御 "绝对防御") **[绝对防御](状态.md)** 沾湿，并令附近的生物获得[![沾水](https://noita.wiki.gg/images/thumb/Effect_wet.png/16px-Effect_wet.png?cc8fe4)](/zh/wiki/%E7%8A%B6%E6%80%81#沾水 "沾水") **[沾水](状态.md)** ，使[光洁铠甲](光洁铠甲.md)失效。如果你通过某种方式使得这个世界上不存在[水](水.md)，就能避免获得奇石的沾湿效果。比如打败[利维坦](利维坦.md)可以把世界上的所有水转化为[烟](烟.md)。 
+
+当受到伤害时，奇石会生成一个隐形的实体持续对玩家造成等同于他自己受到伤害的神圣伤害，直到玩家的生命值不高于boss。这种伤害不能被格挡或免疫，但[死里逃生](死里逃生.md)和[额外生命](额外生命.md)依然可以保护你一小段时间。持续伤害每帧触发持续90帧（1.5秒）。当玩家被变形时，隐形的伤害实体会丢失目标而暂时无法伤害玩家，但是持续时间会延长（直到变形结束）。 
+
+当受伤时且你的生命值百分比高于奇石的生命值百分比，奇石会施加相应的伤害来使你的生命值百分比降到与它相同。由于伤害实体每帧都试图对你造成伤害至少90帧，即使你规避了boss的沾水效果，但光洁铠甲也没那么有用。这使得很难击杀它并存活下来。 
+
+在死亡时，一段动画后三个[鬼影](Kummitus.md)会生成（如果有“骨灰法杖”）。这些鬼影会复制玩家的最大生命值。 
+
+## 战斗技巧
+
+最简单的方式是通过[遁入虚空](遁入虚空.md)。遁入虚空加上延长持续时间的修正会将你长时间变形，从而逃脱隐形伤害实体的持续时间。 
+
+boss会每帧造成让血量相等的伤害，所以治疗并没什么用。如果世界上的水被转换了，足够层数的光洁铠甲（至少7层以上）可以挡住90帧的伤害施加（玩家初始具有1.5x神圣承伤）。 
+
+鬼影可能会持有危险的法杖，所以需要小心。然而获取强大的法杖也是很大的收益。 
+
+几乎任何伤害对它都有效，所以可以使用几乎所有输出方式。 
+
+死里逃生和持续治疗（如[活力之环](活力之环.md)）可以避免死亡，但是依然需要小心后续生成的鬼影。 
+
+一种简单打法是站在神庙顶部的入口处，使用[休眠晶体](休眠晶体.md)+[炸药引爆器](炸药引爆器.md)+[神佑魔药](神佑魔药.md)。在这个位置会离开奇石洗沾湿的范围，从而让神佑依然有用。往下扔休眠晶体一定数量后引爆可以一下秒杀boss。 
+
+还有一种打法是利用追踪的投射物，比如[短距离追踪](短距离追踪.md)+[延长存在时间](延长存在时间.md)+[光剑](光剑.md)，然后向下射击也可以远程对boss造成伤害。见画廊动图演示。 
+
+## 注释
+
+  * 即使你没有直接击杀boss或者提前死了，boss的击杀也会算在你头上，同时结束这局的[和平主义](和平主义者.md)。
+  * 背景上有三个鬼影，暗示了会被生成。
+  * 奇石离开区域会传送回奇石神庙，如果地形被破坏则会持续掉落传送。
+
+
+
+## 画廊
+
+[![](https://noita.wiki.gg/images/Demo_Kivi.gif?f2bf59)](/zh/wiki/File:Demo_Kivi.gif)
+
+[](https://noita.wiki.gg/zh/wiki/File%3ADemo%20Kivi.gif)
+
+奇石在玩家身边滚动
+
+[![](https://noita.wiki.gg/images/Demo_Kivi_damage.gif?2dd70a)](/zh/wiki/File:Demo_Kivi_damage.gif)
+
+[](https://noita.wiki.gg/zh/wiki/File%3ADemo%20Kivi%20damage.gif)
+
+奇石受伤时玩家同时失去生命
+
+[![](https://noita.wiki.gg/images/Demo_Kivi_ambrosia.gif?befc02)](/zh/wiki/File:Demo_Kivi_ambrosia.gif)
+
+[](https://noita.wiki.gg/zh/wiki/File%3ADemo%20Kivi%20ambrosia.gif)
+
+奇石无效化包括[神佑魔药](神佑魔药.md)在内的所有沾湿
+
+[![](https://noita.wiki.gg/images/Demo_Kivi_kill.gif?f00cde)](/zh/wiki/File:Demo_Kivi_kill.gif)
+
+[](https://noita.wiki.gg/zh/wiki/File%3ADemo%20Kivi%20kill.gif)
+
+死亡时场地召唤三只[古迷图斯](古迷图斯.md)
+
+[![Animated screenshot showing Mina standing at the top of Kivi Temple. Mina has Ambrosia stain and casts Explosive Detonator. The damage Kivi reflects shows as red particles while Ambrosia blocks the damage. Mina lives on.](https://noita.wiki.gg/images/thumb/Explosive_Detonator_%2B_Dormant_Crystal_%2B_Ambrosia_in_action.gif/240px-Explosive_Detonator_%2B_Dormant_Crystal_%2B_Ambrosia_in_action.gif?852f1c)](/zh/wiki/File:Explosive_Detonator_%2B_Dormant_Crystal_%2B_Ambrosia_in_action.gif)
+
+[](https://noita.wiki.gg/zh/wiki/File%3AExplosive%20Detonator%20%2B%20Dormant%20Crystal%20%2B%20Ambrosia%20in%20action.gif)
+
+使用[炸药引爆器](炸药引爆器.md)+[休眠晶体](休眠晶体.md)+[神佑魔药](神佑魔药.md)在神庙顶上安全地击杀奇石和三只古迷图斯
+
+[![](https://noita.wiki.gg/images/thumb/Demo_Kivi_kill_with_Ambrosia.gif/240px-Demo_Kivi_kill_with_Ambrosia.gif?3e37e0)](/zh/wiki/File:Demo_Kivi_kill_with_Ambrosia.gif)
+
+[](https://noita.wiki.gg/zh/wiki/File%3ADemo%20Kivi%20kill%20with%20Ambrosia.gif)
+
+使用[短距离追踪](短距离追踪.md)+[延长存在时间](延长存在时间.md)+[光明穿凿](光明穿凿.md)+[神佑魔药](神佑魔药.md)在入口处安全击杀奇石
+
+## 历史
+
+  * **[2024年04月08日(Epilogue2)](版本日志.md)**: 加入到游戏中
+
+
+
+  
+
+
+| [查看](https://noita.wiki.gg/zh/wiki/Template%3AEnemyNav) **·** [讨论](https://noita.wiki.gg/zh/wiki/Template%20talk%3AEnemyNav) **·** [编辑](https://noita.wiki.gg/zh/wiki/Template:EnemyNav?action=edit)[敌人](敌人.md)  
+---  
+杂项类|  [![](https://noita.wiki.gg/zh/images/thumb/Fungus_tiny.png/16px-Fungus_tiny.png?868a2f)](/zh/wiki/Myrkkyn%C3%A4%C3%A4pikk%C3%A4 "迷你黄菇") [迷你黄菇](Myrkkynääpikkä.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Ant.png/16px-Monster_Ant.png?4e37da)](/zh/wiki/Murkku "酸液蚁") [酸液蚁](Murkku.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Bat.png/16px-Monster_Bat.png?54e941)](/zh/wiki/Lepakko "蝙蝠") [蝙蝠](Lepakko.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Bigbat.png/16px-Monster_Bigbat.png?cbf48a)](/zh/wiki/Suurlepakko "蝙蝠皇后") [蝙蝠皇后](Suurlepakko.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Bigzombie.png/16px-Monster_Bigzombie.png?c6eed5)](/zh/wiki/M%C3%A4t%C3%A4nev%C3%A4_ruumis "诅咒腐尸") [诅咒腐尸](Mätänevä ruumis.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_bigzombiehead.png/16px-Monster_bigzombiehead.png?f2274c)](/zh/wiki/M%C3%A4t%C3%A4nev%C3%A4_ruumis "腐烂头颅") [腐烂头颅](Mätänevä ruumis.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_bigzombietorso.png/16px-Monster_bigzombietorso.png?170d9c)](/zh/wiki/M%C3%A4t%C3%A4nev%C3%A4_ruumis "腐烂身躯") [腐烂身躯](Mätänevä ruumis.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Firebug.png/16px-Monster_Firebug.png?a6150c)](/zh/wiki/Pikkutulik%C3%A4rp%C3%A4nen "萤火虫") [萤火虫](Pikkutulikärpänen.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Fireskull.png/16px-Monster_Fireskull.png?4a95fa)](/zh/wiki/Liekki%C3%B6 "火焰头颅") [火焰头颅](Liekkiö.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_fungus_big.png/16px-Monster_fungus_big.png?909188)](/zh/wiki/Nuijamalikka "红伞菇") [红伞菇](Nuijamalikka.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_fungus_giga.png/16px-Monster_fungus_giga.png?6d83e3)](/zh/wiki/Huhtasieni "蓝瘦香菇") [蓝瘦香菇](Huhtasieni.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Fungus.png/16px-Monster_Fungus.png?e7bce9)](/zh/wiki/Laahustussieni "小蓝菇") [小蓝菇](Laahustussieni.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Iceskull.png/16px-Monster_Iceskull.png?21c73b)](/zh/wiki/J%C3%A4%C3%A4ti%C3%B6 "寒冰头颅") [寒冰头颅](Jäätiö.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Pebble.png/16px-Monster_Pebble.png?62e782)](/zh/wiki/Lohkare "岩石精灵") [岩石精灵](Lohkare.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Rat.png/16px-Monster_Rat.png?2cd9a7)](/zh/wiki/Rotta "老鼠") [老鼠](Rotta.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Shooterflower.png/16px-Monster_Shooterflower.png?a92892)](/zh/wiki/Plasmakukka "射手花") [射手花](Plasmakukka.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Thunderskull.png/16px-Monster_Thunderskull.png?10e0fb)](/zh/wiki/S%C3%A4hki%C3%B6 "雷电头颅") [雷电头颅](Sähkiö.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_wolf.png/16px-Monster_wolf.png?dd07de)](/zh/wiki/Susi "狼") [狼](Susi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Bigfirebug.png/16px-Monster_Bigfirebug.png?ad6a7c)](/zh/wiki/Tulik%C3%A4rp%C3%A4nen "大萤火虫") [大萤火虫](Tulikärpänen.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Bloom.png/16px-Monster_Bloom.png?40e162)](/zh/wiki/Puska "魔鬼花") [魔鬼花](Puska.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Fly.png/16px-Monster_Fly.png?87047f)](/zh/wiki/Amppari "蜜蜂") [蜜蜂](Amppari.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Giant.png/16px-Monster_Giant.png?f1bc4d)](/zh/wiki/Hiidenkivi "岩石精灵母体") [岩石精灵母体](Hiidenkivi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_statue.png/16px-Monster_statue.png?f909a0)](/zh/wiki/%E7%99%BD%E8%89%B2%E7%9F%B3%E5%83%8F "雕像") [雕像](白色石像.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Zombie.png/16px-Monster_Zombie.png?775cf7)](/zh/wiki/Hurtta "僵尸犬") [僵尸犬](Hurtta.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Zombie_weak.png/16px-Monster_Zombie_weak.png?4fbd44)](/zh/wiki/Hurtta "虚弱僵尸犬") [虚弱僵尸犬](Hurtta.md)  
+亡灵类|  [![](https://noita.wiki.gg/zh/images/thumb/Ethereal_Being.png/16px-Ethereal_Being.png?4a92bf)](/zh/wiki/Olematon "不存在") [不存在](Olematon.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Crystal_physics.png/16px-Monster_Crystal_physics.png?5130f1)](/zh/wiki/Kirottu_kristalli "诅咒魔晶") [诅咒魔晶](Kirottu kristalli.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_dark_alchemist.png/16px-Monster_dark_alchemist.png?a15cb2)](/zh/wiki/Pahan_muisto "红心拟态怪") [红心拟态怪](Pahan muisto.md) • [![](https://noita.wiki.gg/zh/images/Shaman_wind.png?97a921)](/zh/wiki/Valhe "刷新器拟态怪") [刷新器拟态怪](Valhe.md) • [![](https://noita.wiki.gg/zh/images/Mimic_potion.png?bcc245)](/zh/wiki/Henkev%C3%A4_potu "魔瓶（100% 装满）") [魔瓶（100% 装满）](Henkevä potu.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_ghoul.png/16px-Monster_ghoul.png?5f2f64)](/zh/wiki/Sylkyri "口水怪") [口水怪](Sylkyri.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_hpcrystal.png/16px-Monster_hpcrystal.png?23349a)](/zh/wiki/Elvytyskristalli "生命魔晶") [生命魔晶](Elvytyskristalli.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Phantom_a.png/16px-Monster_Phantom_a.png?93cdfc)](/zh/wiki/Spiraalikalma "螺旋幻影") [螺旋幻影](Spiraalikalma.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Phantom_b.png/16px-Monster_Phantom_b.png?641aa3)](/zh/wiki/Kiukkukalma "暴怒幻影") [暴怒幻影](Kiukkukalma.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_playerghost.png/16px-Monster_playerghost.png?b302ba)](/zh/wiki/Kummitus "鬼影") [鬼影](Kummitus.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_skycrystal_physics.png/16px-Monster_skycrystal_physics.png?63e947)](/zh/wiki/Taivaskristalli "天空魔晶") [天空魔晶](Taivaskristalli.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Statue_physics.png/16px-Monster_Statue_physics.png?25b859)](/zh/wiki/Hohtonaamio "石鬼面") [石鬼面](Hohtonaamio.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Wand_ghost.png/16px-Monster_Wand_ghost.png?4baf0a)](/zh/wiki/Taikasauva "魔杖灵") [魔杖灵](Taikasauva.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Worm_skull.png/16px-Monster_Worm_skull.png?de56b9)](/zh/wiki/Kalmamato "幽灵蠕虫") [幽灵蠕虫](Kalmamato.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Bloodcrystal_physics.png/16px-Monster_Bloodcrystal_physics.png?605a07)](/zh/wiki/Verikristalli "鲜血魔晶") [鲜血魔晶](Verikristalli.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_chest_leggy.png/16px-Monster_chest_leggy.png?518273)](/zh/wiki/Matkija "怪腿宝箱怪") [怪腿宝箱怪](Matkija.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Chest_mimic.png/16px-Monster_Chest_mimic.png?c6a978)](/zh/wiki/Matkija "宝箱拟态怪") [宝箱拟态怪](Matkija.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_ghost_crystal.png/16px-Monster_ghost_crystal.png?40084f)](/zh/wiki/Houre "妄灵") [妄灵](Houre.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Ghost.png/16px-Monster_Ghost.png?3f9aaf)](/zh/wiki/Houre "妄灵") [妄灵](Houre.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Skullfly.png/16px-Monster_Skullfly.png?f5d508)](/zh/wiki/Kallok%C3%A4rp%C3%A4nen "骷髅巨蝇") [骷髅巨蝇](Kallokärpänen.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Skullrat.png/16px-Monster_Skullrat.png?2ec9ec)](/zh/wiki/Kallorotta "骷髅飞鼠") [骷髅飞鼠](Kallorotta.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_snowcrystal.png/16px-Monster_snowcrystal.png?405817)](/zh/wiki/Haamukivi "幻象魔晶") [幻象魔晶](Haamukivi.md) • [![](https://noita.wiki.gg/zh/images/Berserkspirit.png?20f92c)](/zh/wiki/%E7%8B%82%E6%9A%B4%E5%B9%BD%E7%81%B5 "狂暴幽灵") [狂暴幽灵](狂暴幽灵.md) • [![](https://noita.wiki.gg/zh/images/Confusespirit.png?e2e73d)](/zh/wiki/%E8%BF%B7%E9%9B%BE%E5%B9%BD%E7%81%B5 "迷雾幽灵") [迷雾幽灵](迷雾幽灵.md) • [![](https://noita.wiki.gg/zh/images/Weakspirit.png?d50ce3)](/zh/wiki/%E9%98%B4%E9%83%81%E5%B9%BD%E7%81%B5 "阴郁幽灵") [阴郁幽灵](阴郁幽灵.md) • [![](https://noita.wiki.gg/zh/images/Slimespirit.png?ccc015)](/zh/wiki/%E6%B3%A5%E6%B2%BC%E5%B9%BD%E7%81%B5 "泥沼幽灵") [泥沼幽灵](泥沼幽灵.md)  
+粘液类|  [![](https://noita.wiki.gg/zh/images/thumb/Monster_Acidshooter.png/16px-Monster_Acidshooter.png?3d963f)](/zh/wiki/Happonuljaska "酸液史莱姆") [酸液史莱姆](Happonuljaska.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Acidshooter_weak.png/16px-Monster_Acidshooter_weak.png?32a485)](/zh/wiki/Happonuljaska "虚弱酸液史莱姆") [虚弱酸液史莱姆](Happonuljaska.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Giantshooter.png/16px-Monster_Giantshooter.png?1e201d)](/zh/wiki/%C3%84itinuljaska "史莱姆母体") [史莱姆母体](Äitinuljaska.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Giantshooter_weak.png/16px-Monster_Giantshooter_weak.png?58f4ab)](/zh/wiki/%C3%84itinuljaska "虚弱史莱姆母体") [虚弱史莱姆母体](Äitinuljaska.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Lasershooter.png/16px-Monster_Lasershooter.png?b340de)](/zh/wiki/Mulkkio "激光史莱姆") [激光史莱姆](Mulkkio.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Miniblob.png/16px-Monster_Miniblob.png?bda635)](/zh/wiki/M%C3%B6ykky "烦人小污团") [烦人小污团](Möykky.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Blob.png/16px-Monster_Blob.png?9b167c)](/zh/wiki/Kiukkum%C3%B6ykky "烦人污团") [烦人污团](Kiukkumöykky.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Slimeshooter.png/16px-Monster_Slimeshooter.png?1e1800)](/zh/wiki/Limanuljaska "毒液史莱姆") [毒液史莱姆](Limanuljaska.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_slimeshooter_weak.png/16px-Monster_slimeshooter_weak.png?7d02b6)](/zh/wiki/Limanuljaska "虚弱毒液史莱姆") [虚弱毒液史莱姆](Limanuljaska.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Tentacler_small.png/16px-Monster_Tentacler_small.png?3d4c5a)](/zh/wiki/Pikkuturso "小触手怪") [小触手怪](Pikkuturso.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Tentacler.png/16px-Monster_Tentacler.png?2ecdd4)](/zh/wiki/Turso "触手怪") [触手怪](Turso.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Frog.png/16px-Monster_Frog.png?2ef375)](/zh/wiki/Konna "小呱呱") [小呱呱](Konna.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_frog_big.png/16px-Monster_frog_big.png?2eca22)](/zh/wiki/J%C3%A4ttikonna "大呱呱") [大呱呱](Jättikonna.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_lurker.png/16px-Monster_lurker.png?a5aaff)](/zh/wiki/Varjokupla "暗影泡泡") [暗影泡泡](Varjokupla.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Spitmonster.png/16px-Monster_Spitmonster.png?7c8d48)](/zh/wiki/Helvetin_sylkij%C3%A4 "地狱喷吐者") [地狱喷吐者](Helvetin sylkijä.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Gazer.png/16px-Monster_Gazer.png?81ca5d)](/zh/wiki/Helvetinkatse "地狱凝视者") [地狱凝视者](Helvetinkatse.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Skygazer.png/16px-Monster_Skygazer.png?5f54a0)](/zh/wiki/Taivaankatse "天空凝视者") [天空凝视者](Taivaankatse.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Maggot.png/16px-Monster_Maggot.png?ae8f15)](/zh/wiki/Toukka "大肥蛆") [大肥蛆](Toukka.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_minipit.png/16px-Monster_minipit.png?d991a2)](/zh/wiki/Marraskone "腐灵") [腐灵](Marraskone.md)  
+蜘蛛类|  [![](https://noita.wiki.gg/zh/images/thumb/Monster_lukki_creepy.png/16px-Monster_lukki_creepy.png?9085ed)](/zh/wiki/Kasvoton_Lukki "无面蜘蛛") [无面蜘蛛](Kasvoton Lukki.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Lukki_dark.png/16px-Monster_Lukki_dark.png?a83723)](/zh/wiki/Kammolukki "尖牙蜘蛛") [尖牙蜘蛛](Kammolukki.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Longleg.png/16px-Monster_Longleg.png?ed3501)](/zh/wiki/H%C3%A4mis "黑蜘蛛") [黑蜘蛛](Hämis.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_lukki_tiny.png/16px-Monster_lukki_tiny.png?8797e0)](/zh/wiki/H%C3%A4m%C3%A4h%C3%A4kki "幼年丛林蛛") [幼年丛林蛛](Hämähäkki.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Lukki_longleg.png/16px-Monster_Lukki_longleg.png?d21edf)](/zh/wiki/H%C3%A4m%C3%A4h%C3%A4kki "长腿丛林蛛") [长腿丛林蛛](Hämähäkki.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Lukki.png/16px-Monster_Lukki.png?6adff8)](/zh/wiki/H%C3%A4m%C3%A4h%C3%A4kki "丛林蜘蛛") [丛林蜘蛛](Hämähäkki.md)  
+席西类|  [![](https://noita.wiki.gg/zh/images/thumb/Monster_Miner.png/16px-Monster_Miner.png?7689bb)](/zh/wiki/Tappurahiisi "席西矿工") [席西矿工](Tappurahiisi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_goblin_bomb.png/16px-Monster_goblin_bomb.png?60bfa4)](/zh/wiki/S%C3%A4hik%C3%A4ismennink%C3%A4inen "席西焰火师") [席西焰火师](Sähikäismenninkäinen.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_miner_chef.png/16px-Monster_miner_chef.png?8ea10a)](/zh/wiki/Tappurahiisi "席西厨师") [席西厨师](Tappurahiisi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Miner_fire.png/16px-Monster_Miner_fire.png?d733a6)](/zh/wiki/Tulihiisi "席西纵火者") [席西纵火者](Tulihiisi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Miner_weak.png/16px-Miner_weak.png?648ac0)](/zh/wiki/Tappurahiisi "虚弱席西矿工") [虚弱席西矿工](Tappurahiisi.md) • [![](https://noita.wiki.gg/zh/images/Miner_hell.png?8363ac)](/zh/wiki/Tappurahiisi "地狱席西矿工") [地狱席西矿工](Tappurahiisi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Scavenger_clusterbomb.png/16px-Monster_Scavenger_clusterbomb.png?fccba4)](/zh/wiki/Isohiisi "席西爆破手") [席西爆破手](Isohiisi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_scavenger_glue.png/16px-Monster_scavenger_glue.png?b3489f)](/zh/wiki/Liimahiisi "席西胶水兵") [席西胶水兵](Liimahiisi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Scavenger_grenade.png/16px-Monster_Scavenger_grenade.png?31728d)](/zh/wiki/Kranuhiisi "席西榴弹兵") [席西榴弹兵](Kranuhiisi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Scavenger_leader.png/16px-Monster_Scavenger_leader.png?4ae6a0)](/zh/wiki/Toimari "席西士官长") [席西士官长](Toimari.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Scavenger_mine.png/16px-Monster_Scavenger_mine.png?bf8961)](/zh/wiki/Miinankylv%C3%A4j%C3%A4 "席西地雷兵") [席西地雷兵](Miinankylväjä.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Scavenger_poison.png/16px-Monster_Scavenger_poison.png?d5e735)](/zh/wiki/Myrkkyhiisi "席西毒枪兵") [席西毒枪兵](Myrkkyhiisi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Scavenger_smg.png/16px-Monster_Scavenger_smg.png?a43033)](/zh/wiki/Rynkkyhiisi "席西冲锋兵") [席西冲锋兵](Rynkkyhiisi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Shotgunner.png/16px-Monster_Shotgunner.png?585bb3)](/zh/wiki/Haulikkohiisi "席西猎手") [席西猎手](Haulikkohiisi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Shotgunner_weak.png/16px-Shotgunner_weak.png?739067)](/zh/wiki/Haulikkohiisi "虚弱席西猎手") [虚弱席西猎手](Haulikkohiisi.md) • [![](https://noita.wiki.gg/zh/images/Shotgunner_hell.png?475051)](/zh/wiki/Haulikkohiisi "地狱席西猎手") [地狱席西猎手](Haulikkohiisi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Sniper.png/16px-Monster_Sniper.png?db57b2)](/zh/wiki/Snipuhiisi "席西狙击手") [席西狙击手](Snipuhiisi.md) • [![](https://noita.wiki.gg/zh/images/Sniper_hell.png?f8f866)](/zh/wiki/Snipuhiisi "地狱席西狙击手") [地狱席西狙击手](Snipuhiisi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Tank_rocket.png/16px-Monster_Tank_rocket.png?458d24)](/zh/wiki/IT-Tankki "IT坦克") [IT坦克](IT-Tankki.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_tank_super.png/16px-Monster_tank_super.png?3a7c42)](/zh/wiki/Laser-Tankki "超级坦克") [超级坦克](Laser-Tankki.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Tank.png/16px-Monster_Tank.png?3c448e)](/zh/wiki/KK-Tankki "KK坦克") [KK坦克](KK-Tankki.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Turret.png/16px-Monster_Turret.png?82df48)](/zh/wiki/Torjuntalaite "哨戒炮塔") [哨戒炮塔](Torjuntalaite.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_ultimate_killer.png/16px-Monster_ultimate_killer.png?136eda)](/zh/wiki/Kauhuhirvi%C3%B6 "恐怖怪兽") [恐怖怪兽](Kauhuhirviö.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Alchemist.png/16px-Monster_Alchemist.png?21dd0f)](/zh/wiki/Alkemisti "席西炼金术士") [席西炼金术士](Alkemisti.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Miner_santa.png/16px-Monster_Miner_santa.png?a6c5ed)](/zh/wiki/Jouluhiisi "席西圣诞老人") [席西圣诞老人](Jouluhiisi.md)  
+机械类|  [![](https://noita.wiki.gg/zh/images/thumb/Laserdronely.png/16px-Laserdronely.png?1bffca)](/zh/wiki/J%C3%A4ttilaser-lennokki "激光无人机") [激光无人机](Jättilaser-lennokki.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_basebot_hidden.png/16px-Monster_basebot_hidden.png?2e2819)](/zh/wiki/Vakoilija "机械间谍") [机械间谍](Vakoilija.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_basebot_neutralizer.png/16px-Monster_basebot_neutralizer.png?496f0a)](/zh/wiki/Pys%C3%A4ytt%C3%A4j%C3%A4 "机械拦截兵") [机械拦截兵](Pysäyttäjä.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_basebot_sentry.png/16px-Monster_basebot_sentry.png?fad9a6)](/zh/wiki/Tarkkailija "机械哨兵") [机械哨兵](Tarkkailija.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_basebot_soldier.png/16px-Monster_basebot_soldier.png?a95895)](/zh/wiki/Teloittaja "机械士兵") [机械士兵](Teloittaja.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Flamer.png/16px-Monster_Flamer.png?c321ce)](/zh/wiki/Liekkari "机械喷火兵") [机械喷火兵](Liekkari.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Icer.png/16px-Monster_Icer.png?dce521)](/zh/wiki/J%C3%A4%C3%A4hdytyslaite "机械冷冻兵") [机械冷冻兵](Jäähdytyslaite.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Missilecrab.png/16px-Monster_Missilecrab.png?17dbc3)](/zh/wiki/Hein%C3%A4sirkka "机械导弹蟹") [机械导弹蟹](Heinäsirkka.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_necrobot_super.png/16px-Monster_necrobot_super.png?e8cd20)](/zh/wiki/Marraskone "腐化机器人") [腐化机器人](Marraskone.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_necrobot.png/16px-Monster_necrobot.png?e16424)](/zh/wiki/Tuonelankone "复活机器人") [复活机器人](Tuonelankone.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_roboguard_big.png/16px-Monster_roboguard_big.png?6f5d19)](/zh/wiki/Kyrmyniska "重型机械守卫") [重型机械守卫](Kyrmyniska.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Roboguard.png/16px-Monster_Roboguard.png?731e48)](/zh/wiki/Robottikytt%C3%A4 "机械守卫") [机械守卫](Robottikyttä.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_spearbot.png/16px-Monster_spearbot.png?9eede0)](/zh/wiki/Peitsivartija "机械投枪手") [机械投枪手](Peitsivartija.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_monk.png/16px-Monster_monk.png?5c3421)](/zh/wiki/Munkki "机械僧侣") [机械僧侣](Munkki.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Assassin.png/16px-Monster_Assassin.png?ea3ce2)](/zh/wiki/Salamurhaajarobotti "机械刺客") [机械刺客](Salamurhaajarobotti.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Drone_physics.png/16px-Monster_Drone_physics.png?b57553)](/zh/wiki/Lennokki "无人机") [无人机](Lennokki.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_drone_shield.png/16px-Monster_drone_shield.png?f0f15e)](/zh/wiki/Turvalennokki "护盾无人机") [护盾无人机](Turvalennokki.md)  
+支援类|  [![](https://noita.wiki.gg/zh/images/thumb/Monster_Healerdrone_physics.png/16px-Monster_Healerdrone_physics.png?57926d)](/zh/wiki/Korjauslennokki "医疗无人机") [医疗无人机](Korjauslennokki.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Scavenger_heal.png/16px-Monster_Scavenger_heal.png?f72bb2)](/zh/wiki/Parantajahiisi "席西治疗兵") [席西治疗兵](Parantajahiisi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_scavenger_invis.png/16px-Monster_scavenger_invis.png?e1d3d5)](/zh/wiki/H%C3%A4ivehiisi "席西隐形兵") [席西隐形兵](Häivehiisi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_scavenger_shield.png/16px-Monster_scavenger_shield.png?9016b2)](/zh/wiki/Kilpihiisi "席西护盾兵") [席西护盾兵](Kilpihiisi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Coward.png/16px-Monster_Coward.png?58061f)](/zh/wiki/Raukka "席西胆小鬼") [席西胆小鬼](Raukka.md)  
+炼金术师|  [![](https://noita.wiki.gg/zh/images/thumb/Monster_enlightened_alchemist.png/16px-Monster_enlightened_alchemist.png?63b426)](/zh/wiki/Valaistunut_alkemisti "受启炼金术士") [受启炼金术士](Valaistunut alkemisti.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_failed_alchemist_progress.png/16px-Monster_failed_alchemist_progress.png?443039)](/zh/wiki/Kadotettu_alkemisti "被诅咒的炼金术士") [被诅咒的炼金术士](Kadotettu alkemisti.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_failed_alchemist_b.png/16px-Monster_failed_alchemist_b.png?548d3b)](/zh/wiki/Ep%C3%A4alkemisti "亡灵炼金术士") [亡灵炼金术士](Epäalkemisti.md)  
+元素魔物|  [![](https://noita.wiki.gg/zh/images/thumb/Monster_Firemage_weak.png/16px-Monster_Firemage_weak.png?dff2cc)](/zh/wiki/Stendari "火魔") [火魔](Stendari.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Firemage.png/16px-Monster_Firemage.png?bcf25c)](/zh/wiki/Eldari "炎魔") [炎魔](Eldari.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_icemage.png/16px-Monster_icemage.png?76f1b2)](/zh/wiki/Pakkasukko "冰魔") [冰魔](Pakkasukko.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Necromancer_shop_icon.png/16px-Monster_Necromancer_shop_icon.png?237658)](/zh/wiki/Stevari "圣山守卫") [圣山守卫](Stevari.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_necromancer_super.png/16px-Monster_necromancer_super.png?edef85)](/zh/wiki/Skoude "圣山守卫长") [圣山守卫长](Skoude.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Necromancer.png/16px-Monster_Necromancer.png?55987d)](/zh/wiki/Hahmonvaihtaja "变形魔") [变形魔](Hahmonvaihtaja.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_shaman.png/16px-Monster_shaman.png?2ee423)](/zh/wiki/M%C3%A4rki%C3%A4inen "沼泽萨满") [沼泽萨满](Märkiäinen.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_thundermage_big.png/16px-Monster_thundermage_big.png?539987)](/zh/wiki/Suur-Ukko "雷魔") [雷魔](Suur-Ukko.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Thundermage.png/16px-Monster_Thundermage.png?ae437b)](/zh/wiki/Ukko "电魔") [电魔](Ukko.md)  
+法师类|  [![](https://noita.wiki.gg/zh/images/thumb/Monster_Barfer.png/16px-Monster_Barfer.png?769d9a)](/zh/wiki/Turvonnu_velho "巫毒术士") [巫毒术士](Turvonnu velho.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Wizard_dark.png/16px-Monster_Wizard_dark.png?2a9c12)](/zh/wiki/Sokaisunmestari "黑暗法师") [黑暗法师](Sokaisunmestari.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Wizard_tele.png/16px-Monster_Wizard_tele.png?14f9a3)](/zh/wiki/Siirt%C3%A4j%C3%A4mestari "传送法师") [传送法师](Siirtäjämestari.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_wizard_hearty.png/16px-Monster_wizard_hearty.png?77611a)](/zh/wiki/Haavoittajamestari "心梗法师") [心梗法师](Haavoittajamestari.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_wizard_neutral.png/16px-Monster_wizard_neutral.png?e4cf67)](/zh/wiki/Maadoittajamestari "中和法师") [中和法师](Maadoittajamestari.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Wizard_poly.png/16px-Monster_Wizard_poly.png?e0b4f5)](/zh/wiki/Muodonmuutosmestari "变形法师") [变形法师](Muodonmuutosmestari.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_wizard_returner.png/16px-Monster_wizard_returner.png?524325)](/zh/wiki/Palauttajamestari "反制法师") [反制法师](Palauttajamestari.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_wizard_twitchy.png/16px-Monster_wizard_twitchy.png?ef6394)](/zh/wiki/S%C3%A4tkymestari "手抖法师") [手抖法师](Sätkymestari.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_wizard_weaken.png/16px-Monster_wizard_weaken.png?7cd7c7)](/zh/wiki/Turvattomuusmestari "破防法师") [破防法师](Turvattomuusmestari.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_wizard_wither.png/16px-Monster_wizard_wither.png?3e4888)](/zh/wiki/Kohdennusmestari "引力法师") [引力法师](Kohdennusmestari.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Wizard_swapper.png/16px-Monster_Wizard_swapper.png?7376a0)](/zh/wiki/Vaihdosmestari "换位法师") [换位法师](Vaihdosmestari.md)  
+游魂类|  [![](https://noita.wiki.gg/zh/images/thumb/Monster_wraith_glowing.png/16px-Monster_wraith_glowing.png?192ba3)](/zh/wiki/Hohtava_hyypi%C3%B6 "冷光游魂") [冷光游魂](Hohtava hyypiö.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_wraith_storm.png/16px-Monster_wraith_storm.png?28eb60)](/zh/wiki/Ukkoshyypi%C3%B6 "雷霆游魂") [雷霆游魂](Ukkoshyypiö.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_wraith.png/16px-Monster_wraith.png?67238e)](/zh/wiki/Hyypi%C3%B6 "深红游魂") [深红游魂](Hyypiö.md)  
+蠕虫类|  [![](https://noita.wiki.gg/zh/images/thumb/Monster_Worm_tiny.png/16px-Monster_Worm_tiny.png?8cd813)](/zh/wiki/Pikkumato "小蠕虫") [小蠕虫](Pikkumato.md) • [![](https://noita.wiki.gg/zh/images/Meatmaggot.png?2d0259)](/zh/wiki/M%C3%A4t%C3%A4ry%C3%B6mij%C3%A4 "肉蛆") [肉蛆](Mätäryömijä.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Worm.png/16px-Monster_Worm.png?a1dbf3)](/zh/wiki/Mato "蠕虫") [蠕虫](Mato.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Worm_big.png/16px-Monster_Worm_big.png?a4db7c)](/zh/wiki/J%C3%A4ttimato "巨型蠕虫") [巨型蠕虫](Jättimato.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Worm_end.png/16px-Monster_Worm_end.png?26fd73)](/zh/wiki/Helvetinmato "地狱蠕虫") [地狱蠕虫](Helvetinmato.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_eel.png/16px-Monster_eel.png?f48d38)](/zh/wiki/Nahkiainen "七鰓鰻鱼") [七鰓鰻鱼](Nahkiainen.md)  
+被动生物|  [![](https://noita.wiki.gg/zh/images/thumb/Monster_deer.png/16px-Monster_deer.png?8b7bf2)](/zh/wiki/Nelikoipi "鹿") [鹿](Nelikoipi.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_duck.png/16px-Monster_duck.png?9630f1)](/zh/wiki/Ankka "鸭子") [鸭子](Ankka.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_elk.png/16px-Monster_elk.png?3e300f)](/zh/wiki/Poro "驯鹿") [驯鹿](Poro.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_sheep_fly.png/16px-Monster_sheep_fly.png?78bfda)](/zh/wiki/Lammas "嗡嗡绵羊") [嗡嗡绵羊](Lammas.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_sheep_bat.png/16px-Monster_sheep_bat.png?488cdc)](/zh/wiki/Lammas "蝙蝠绵羊") [蝙蝠绵羊](Lammas.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_sheep.png/16px-Monster_sheep.png?4b17da)](/zh/wiki/Lammas "绵羊") [绵羊](Lammas.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Fish.png/16px-Monster_Fish.png?5c071f)](/zh/wiki/Ev%C3%A4k%C3%A4s "青鱼") [青鱼](Eväkäs.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Fish_large.png/16px-Monster_Fish_large.png?9edd8d)](/zh/wiki/Suurev%C3%A4k%C3%A4s "红鱼") [红鱼](Suureväkäs.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_scorpion.png/16px-Monster_scorpion.png?33d0b0)](/zh/wiki/Skorpioni "蝎子") [蝎子](Skorpioni.md)  
+BOSS类|  [![](https://noita.wiki.gg/zh/images/thumb/Monster_Boss_centipede.png/16px-Monster_Boss_centipede.png?a4a23b)](/zh/wiki/%E4%B8%89%E7%9C%BC "三眼") [三眼](三眼.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_boss_ghost.png/16px-Monster_boss_ghost.png?a73147)](/zh/wiki/%E8%A2%AB%E9%81%97%E5%BF%98%E8%80%85 "被遗忘者") [被遗忘者](被遗忘者.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_boss_robot.png/16px-Monster_boss_robot.png?e603f0)](/zh/wiki/%E4%B8%89%E7%9C%BC%E4%B9%8B%E7%9E%B3 "三眼之瞳") [三眼之瞳](三眼之瞳.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_boss_wizard.png/16px-Monster_boss_wizard.png?939ab6)](/zh/wiki/%E6%B3%95%E5%B8%88%E9%A2%86%E4%B8%BB "法师领主") [法师领主](法师领主.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_gate_monster_a.png/16px-Monster_gate_monster_a.png?26daec)](/zh/wiki/%E9%97%A8%E7%A5%9E%E6%A0%B8%E5%BF%83 "门神之心") [门神之心](门神核心.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_gate_monster_b.png/16px-Monster_gate_monster_b.png?36983b)](/zh/wiki/%E9%97%A8%E7%A5%9E%E6%A0%B8%E5%BF%83 "门神左臂") [门神左臂](门神核心.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_gate_monster_c.png/16px-Monster_gate_monster_c.png?998d41)](/zh/wiki/%E9%97%A8%E7%A5%9E%E6%A0%B8%E5%BF%83 "门神右臂") [门神右臂](门神核心.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_gate_monster_d.png/16px-Monster_gate_monster_d.png?208cd3)](/zh/wiki/%E9%97%A8%E7%A5%9E%E6%A0%B8%E5%BF%83 "门神之首") [门神之首](门神核心.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_maggot_tiny.png/16px-Monster_maggot_tiny.png?a3efef)](/zh/wiki/%E5%B0%8F%E5%B0%8F%E8%9B%86 "小小蛆") [小小蛆](小小蛆.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_boss_alchemist_progress.png/16px-Monster_boss_alchemist_progress.png?810d2e)](/zh/wiki/%E5%8F%A4%E4%BB%A3%E7%82%BC%E9%87%91%E6%9C%AF%E5%B8%88 "古代炼金术士") [古代炼金术士](古代炼金术师.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Boss_dragon.png/16px-Monster_Boss_dragon.png?20e344)](/zh/wiki/%E9%BE%99 "龙") [龙](龙.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_Boss_limbs.png/16px-Monster_Boss_limbs.png?8806c3)](/zh/wiki/%E4%B8%89%E7%9C%BC%E4%B9%8B%E8%B6%B3 "三眼之腿") [三眼之腿](三眼之足.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_boss_pit.png/16px-Monster_boss_pit.png?1d0b04)](/zh/wiki/%E9%AD%94%E6%9D%96%E9%89%B4%E8%B5%8F%E5%AE%B6 "魔杖鉴赏家") [魔杖鉴赏家](魔杖鉴赏家.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_fish_giga.png/16px-Monster_fish_giga.png?11e8f8)](/zh/wiki/%E5%88%A9%E7%BB%B4%E5%9D%A6 "小龙虾") [小龙虾](利维坦.md) • [![](https://noita.wiki.gg/zh/images/thumb/Monster_friend.png/16px-Monster_friend.png?83e8b0)](/zh/wiki/%E5%A5%BD%E6%9C%8B%E5%8F%8B "大可爱") [大可爱](好朋友.md) • [![](https://noita.wiki.gg/zh/images/Islandspirit.png?8b8041)](/zh/wiki/Tapion_vasalli "森灵使者") [森灵使者](Tapion vasalli.md) • [![](https://noita.wiki.gg/zh/images/Boss_sky.png?58721d)](/zh/wiki/Kivi "奇石") 奇石 • [![](https://noita.wiki.gg/zh/images/Boss_meat.png?39969c)](/zh/wiki/Kolmisilm%C3%A4n_syd%C3%A4n "三眼之心") [三眼之心](Kolmisilmän sydän.md)  
+玩家相关|  [![](https://noita.wiki.gg/zh/images/thumb/Monster_player.png/16px-Monster_player.png?14145b)](/zh/wiki/%E7%B1%B3%E7%BA%B3 "我自己") [我自己](米纳.md) • [![](https://noita.wiki.gg/zh/images/thumb/Enemy_taikasauva.webp/16px-Enemy_taikasauva.webp?fd21c2)](/zh/wiki/%E8%B4%B9%E6%B4%9B%E8%92%99 "魔杖灵") [魔杖灵](费洛蒙.md) • [![](https://noita.wiki.gg/images/thumb/Monster_Ruttorotta_icon.png/16px-Monster_Ruttorotta_icon.png?a53e39)](/zh/wiki/Ruttorotta "疫病鼠") [疫病鼠](Ruttorotta.md)  
+相关页面|  [阵营](阵营.md) • [按生物群系划分敌人](按生物群系划分敌人.md) • [免疫](免疫.md)
+  *[没有对应音频]: no audio file named Neva-Aave.mp3 was found
+  *[1/820]: 0.121%
+  *[1/598]: 0.167%

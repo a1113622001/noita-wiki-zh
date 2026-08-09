@@ -1,0 +1,126 @@
+# 带有[soluble]标签的材料
+
+**分类:** [Category:材料标签分类页面](Category%3A材料标签分类页面.md) · [Category:材料](Category%3A材料.md)
+**来源:** https://noita.wiki.gg/zh/wiki/Category%3A%E5%B8%A6%E6%9C%89soluble%E6%A0%87%E7%AD%BE%E7%9A%84%E6%9D%90%E6%96%99
+---
+
+## 材料列表
+
+[![黑沼泽](https://noita.wiki.gg/images/thumb/Material_swamp.png/130px-Material_swamp.png?f56fff)](/zh/wiki/%E6%B2%BC%E6%B3%BD "黑沼泽") **[黑沼泽](沼泽.md)**[![Materialpotion swamp.png](https://noita.wiki.gg/images/Materialpotion_swamp.png?14f3b7)](/zh/wiki/%E6%B2%BC%E6%B3%BD "沼泽") [swamp](沼泽.md)`swamp` [![血液](https://noita.wiki.gg/images/thumb/Material_blood.png/130px-Material_blood.png?db7711)](/zh/wiki/%E8%A1%80%E6%B6%B2 "血液") **[血液](血液.md)**[![Materialpotion blood.png](https://noita.wiki.gg/images/Materialpotion_blood.png?6649a6)](/zh/wiki/%E8%A1%80%E6%B6%B2 "血液") [blood](血液.md)`blood` [![挥发血液](https://noita.wiki.gg/images/thumb/Material_blood_fading.png/130px-Material_blood_fading.png?7620c3)](/zh/wiki/%E8%A1%80%E6%B6%B2 "挥发血液") **[挥发血液](血液.md)**[![Materialpotion blood fading.png](https://noita.wiki.gg/images/Materialpotion_blood_fading.png?b15d53)](/zh/wiki/%E8%A1%80%E6%B6%B2 "血液") [blood](血液.md)`blood_fading` [![血液](https://noita.wiki.gg/images/thumb/Material_blood_fading_slow.png/130px-Material_blood_fading_slow.png?db7711)](/zh/wiki/%E8%A1%80%E6%B6%B2 "血液") **[血液](血液.md)**[![Materialpotion blood fading slow.png](https://noita.wiki.gg/images/Materialpotion_blood_fading_slow.png?6649a6)](/zh/wiki/%E8%A1%80%E6%B6%B2 "血液") [blood](血液.md)`blood_fading_slow` [![真菌血液](https://noita.wiki.gg/images/thumb/Material_blood_fungi.png/130px-Material_blood_fungi.png?5726ad)](/zh/wiki/%E7%9C%9F%E8%8F%8C%E8%A1%80%E6%B6%B2 "真菌血液") **[真菌血液](真菌血液.md)**[![Materialpotion blood fungi.png](https://noita.wiki.gg/images/Materialpotion_blood_fungi.png?cd35a4)](/zh/wiki/%E7%9C%9F%E8%8F%8C%E8%A1%80%E6%B6%B2 "真菌血液") [fungus blood](真菌血液.md)`blood_fungi` [![蠕虫血液](https://noita.wiki.gg/images/thumb/Material_blood_worm.png/130px-Material_blood_worm.png?7b6132)](/zh/wiki/%E8%A0%95%E8%99%AB%E8%A1%80%E6%B6%B2 "蠕虫血液") **[蠕虫血液](蠕虫血液.md)**[![Materialpotion blood worm.png](https://noita.wiki.gg/images/Materialpotion_blood_worm.png?3a74ff)](/zh/wiki/%E8%A0%95%E8%99%AB%E8%A1%80%E6%B6%B2 "蠕虫血液") [worm blood](蠕虫血液.md)`blood_worm` [![暖心白粥](https://noita.wiki.gg/images/thumb/Material_porridge.png/130px-Material_porridge.png?b70e90)](/zh/wiki/%E6%BB%A1%E8%B6%B3%E4%B9%8B%E7%B2%A5 "暖心白粥") **[暖心白粥](满足之粥.md)**[![Materialpotion porridge.png](https://noita.wiki.gg/images/Materialpotion_porridge.png?119e11)](/zh/wiki/%E6%BB%A1%E8%B6%B3%E4%B9%8B%E7%B2%A5 "满足之粥") [Hearty Porridge](满足之粥.md)`porridge` [![冰冻液体](https://noita.wiki.gg/images/thumb/Material_blood_cold.png/130px-Material_blood_cold.png?f7f02c)](/zh/wiki/%E5%86%B0%E5%86%BB%E6%B6%B2%E4%BD%93 "冰冻液体") **[冰冻液体](冰冻液体.md)**[![Materialpotion blood cold.png](https://noita.wiki.gg/images/Materialpotion_blood_cold.png?f45ef7)](/zh/wiki/%E5%86%B0%E5%86%BB%E6%B6%B2%E4%BD%93 "冰冻液体") [freezing liquid](冰冻液体.md)`blood_cold` [![绿色毒液](https://noita.wiki.gg/images/thumb/Material_radioactive_liquid.png/130px-Material_radioactive_liquid.png?100bba)](/zh/wiki/%E6%AF%92%E6%80%A7%E6%B7%A4%E6%B3%A5 "绿色毒液") **[绿色毒液](毒性淤泥.md)**[![Materialpotion radioactive liquid.png](https://noita.wiki.gg/images/Materialpotion_radioactive_liquid.png?d8e610)](/zh/wiki/%E6%AF%92%E6%80%A7%E6%B7%A4%E6%B3%A5 "毒性淤泥") [toxic sludge](毒性淤泥.md)`radioactive_liquid` [![紫色毒液](https://noita.wiki.gg/images/thumb/Material_poison.png/130px-Material_poison.png?7b1f96)](/zh/wiki/%E7%B4%AB%E8%89%B2%E6%AF%92%E6%B6%B2 "紫色毒液") **[紫色毒液](紫色毒液.md)**[![Materialpotion poison.png](https://noita.wiki.gg/images/Materialpotion_poison.png?8a1bba)](/zh/wiki/%E7%B4%AB%E8%89%B2%E6%AF%92%E6%B6%B2 "紫色毒液") [Poison](紫色毒液.md)`poison` [![贪婪诅咒液体](https://noita.wiki.gg/images/thumb/Material_cursed_liquid.png/130px-Material_cursed_liquid.png?2cc3f8)](/zh/wiki/%E8%B4%AA%E5%A9%AA%E8%AF%85%E5%92%92%E6%B6%B2%E4%BD%93 "贪婪诅咒液体") **[贪婪诅咒液体](贪婪诅咒液体.md)**[![Materialpotion cursed liquid.png](https://noita.wiki.gg/images/Materialpotion_cursed_liquid.png?903dbd)](/zh/wiki/%E8%B4%AA%E5%A9%AA%E8%AF%85%E5%92%92%E6%B6%B2%E4%BD%93 "贪婪诅咒液体") [Greed-cursed liquid](贪婪诅咒液体.md)`cursed_liquid` [![黄色毒液](https://noita.wiki.gg/images/thumb/Material_radioactive_liquid_yellow.png/130px-Material_radioactive_liquid_yellow.png?100bba)](/zh/wiki/%E6%AF%92%E6%80%A7%E6%B7%A4%E6%B3%A5 "黄色毒液") **[黄色毒液](毒性淤泥.md)**[![Materialpotion radioactive liquid yellow.png](https://noita.wiki.gg/images/Materialpotion_radioactive_liquid_yellow.png?d8e610)](/zh/wiki/%E6%AF%92%E6%80%A7%E6%B7%A4%E6%B3%A5 "毒性淤泥") [toxic sludge](毒性淤泥.md)`radioactive_liquid_yellow` [![挥发绿色毒液](https://noita.wiki.gg/images/thumb/Material_radioactive_liquid_fading.png/130px-Material_radioactive_liquid_fading.png?f9bbc2)](/zh/wiki/%E6%AF%92%E6%80%A7%E6%B7%A4%E6%B3%A5 "挥发绿色毒液") **[挥发绿色毒液](毒性淤泥.md)**[![Materialpotion radioactive liquid fading.png](https://noita.wiki.gg/images/Materialpotion_radioactive_liquid_fading.png?d8e610)](/zh/wiki/%E6%AF%92%E6%80%A7%E6%B7%A4%E6%B3%A5 "毒性淤泥") [toxic sludge](毒性淤泥.md)`radioactive_liquid_fading` [![蓝色魔法液体](https://noita.wiki.gg/images/thumb/Material_plasma_fading.png/130px-Material_plasma_fading.png?a73bf0)](/zh/wiki/%E9%AD%94%E6%B3%95%E6%B6%B2%E4%BD%93 "蓝色魔法液体") **[蓝色魔法液体](魔法液体.md)**[![Materialpotion plasma fading.png](https://noita.wiki.gg/images/Materialpotion_plasma_fading.png?e77795)](/zh/wiki/%E9%AD%94%E6%B3%95%E6%B6%B2%E4%BD%93 "魔法液体") [magical liquid](魔法液体.md)`plasma_fading` [![蓝色魔法液体](https://noita.wiki.gg/images/thumb/Material_plasma_fading_bright.png/130px-Material_plasma_fading_bright.png?b2c8db)](/zh/wiki/%E9%AD%94%E6%B3%95%E6%B6%B2%E4%BD%93 "蓝色魔法液体") **[蓝色魔法液体](魔法液体.md)**[![Materialpotion plasma fading bright.png](https://noita.wiki.gg/images/Materialpotion_plasma_fading_bright.png?eee15a)](/zh/wiki/%E9%AD%94%E6%B3%95%E6%B6%B2%E4%BD%93 "魔法液体") [magical liquid](魔法液体.md)`plasma_fading_bright` [![绿色魔法液体](https://noita.wiki.gg/images/thumb/Material_plasma_fading_green.png/130px-Material_plasma_fading_green.png?b9c08b)](/zh/wiki/%E9%AD%94%E6%B3%95%E6%B6%B2%E4%BD%93 "绿色魔法液体") **[绿色魔法液体](魔法液体.md)**[![Materialpotion plasma fading green.png](https://noita.wiki.gg/images/Materialpotion_plasma_fading_green.png?11ae03)](/zh/wiki/%E9%AD%94%E6%B3%95%E6%B6%B2%E4%BD%93 "魔法液体")[![Materialpouch plasma fading green.png](https://noita.wiki.gg/images/Materialpouch_plasma_fading_green.png?446d06)](/zh/wiki/%E9%AD%94%E6%B3%95%E6%B6%B2%E4%BD%93 "魔法液体") [magical liquid](魔法液体.md)`plasma_fading_green` [![紫色魔法液体](https://noita.wiki.gg/images/thumb/Material_plasma_fading_pink.png/130px-Material_plasma_fading_pink.png?1d49d0)](/zh/wiki/%E9%AD%94%E6%B3%95%E6%B6%B2%E4%BD%93 "紫色魔法液体") **[紫色魔法液体](魔法液体.md)**[![Materialpotion plasma fading pink.png](https://noita.wiki.gg/images/Materialpotion_plasma_fading_pink.png?f8ba5a)](/zh/wiki/%E9%AD%94%E6%B3%95%E6%B6%B2%E4%BD%93 "魔法液体")[![Materialpouch plasma fading pink.png](https://noita.wiki.gg/images/Materialpouch_plasma_fading_pink.png?40475b)](/zh/wiki/%E9%AD%94%E6%B3%95%E6%B6%B2%E4%BD%93 "魔法液体") [magical liquid](魔法液体.md)`plasma_fading_pink` [![尿液](https://noita.wiki.gg/images/thumb/Material_urine.png/130px-Material_urine.png?82a113)](/zh/wiki/%E5%B0%BF%E6%B6%B2 "尿液") **[尿液](尿液.md)**[![Materialpotion urine.png](https://noita.wiki.gg/images/Materialpotion_urine.png?477fcf)](/zh/wiki/%E5%B0%BF%E6%B6%B2 "尿液") [urine](尿液.md)`urine` [![粪便](https://noita.wiki.gg/images/thumb/Material_poo.png/130px-Material_poo.png?93c43f)](/zh/wiki/%E7%B2%AA%E4%BE%BF "粪便") **[粪便](粪便.md)**[![Materialpotion poo.png](https://noita.wiki.gg/images/Materialpotion_poo.png?b4ea51)](/zh/wiki/%E7%B2%AA%E4%BE%BF "粪便")[![Materialpouch poo.png](https://noita.wiki.gg/images/Materialpouch_poo.png?1499df)](/zh/wiki/%E7%B2%AA%E4%BE%BF "粪便") [excrement](粪便.md)`poo` [![曼米](https://noita.wiki.gg/images/thumb/Material_mammi.png/130px-Material_mammi.png?b2f932)](/zh/wiki/%E6%9B%BC%E7%B1%B3 "曼米") **[曼米](曼米.md)**[![Materialpotion mammi.png](https://noita.wiki.gg/images/Materialpotion_mammi.png?b4ea51)](/zh/wiki/%E6%9B%BC%E7%B1%B3 "曼米")[![Materialpouch mammi.png](https://noita.wiki.gg/images/Materialpouch_mammi.png?1499df)](/zh/wiki/%E6%9B%BC%E7%B1%B3 "曼米") [mämmi](曼米.md)`mammi`  
+---  
+  
+## 反应
+
+_很抱歉，该标签不涉及任何反应_
+  *[没有对应音频]: no audio file named Neva-Aave.mp3 was found
+  *[1/820]: 0.121%
+  *[1/598]: 0.167%
+  *[1/44.5]: 2.244%
+  *[1/93.3]: 1.070%
+  *[1/172]: 0.580%
+  *[1/185]: 0.538%
+  *[1/238]: 0.419%
+  *[1/649]: 0.153%
+  *[1/417]: 0.239%
+  *[1/410]: 0.243%
+  *[1/59.8]: 1.672%
+  *[1/1428]: 0.069%
+  *[1/1252]: 0.079%
+  *[1/105]: 0.951%
+  *[1/129]: 0.769%
+  *[1/166]: 0.598%
+  *[1/84]: 1.189%
+  *[1/153]: 0.653%
+  *[1/144]: 0.692%
+  *[1/420]: 0.237%
+  *[1/275]: 0.363%
+  *[1/204]: 0.489%
+  *[1/280]: 0.356%
+  *[1/459]: 0.217%
+  *[1/259]: 0.384%
+  *[1/273]: 0.365%
+  *[1/173]: 0.577%
+  *[1/142]: 0.699%
+  *[1/164]: 0.609%
+  *[1/137]: 0.726%
+  *[1/82]: 1.218%
+  *[1/168]: 0.594%
+  *[1/229]: 0.435%
+  *[1/357]: 0.279%
+  *[1/1377]: 0.072%
+  *[1/324]: 0.307%
+  *[1/285]: 0.349%
+  *[1/313]: 0.319%
+  *[1/688]: 0.145%
+  *[1/250]: 0.399%
+  *[1/178]: 0.559%
+  *[1/156]: 0.638%
+  *[1/117]: 0.853%
+  *[1/210]: 0.475%
+  *[1/891]: 0.112%
+  *[1/1681]: 0.059%
+  *[1/162]: 0.615%
+  *[1/102]: 0.974%
+  *[1/140]: 0.713%
+  *[1/74.2]: 1.346%
+  *[1/205]: 0.487%
+  *[1/208]: 0.479%
+  *[1/344]: 0.290%
+  *[1/136]: 0.731%
+  *[1/148]: 0.673%
+  *[1/433]: 0.230%
+  *[1/714]: 0.139%
+  *[1/55.6]: 1.795%
+  *[1/216]: 0.461%
+  *[1/476]: 0.209%
+  *[1/299]: 0.334%
+  *[1/158]: 0.629%
+  *[1/89.1]: 1.122%
+  *[1/125]: 0.798%
+  *[1/192]: 0.519%
+  *[1/840]: 0.118%
+  *[1/8206]: 0.012%
+  *[1/445]: 0.224%
+  *[1/626]: 0.159%
+  *[1/196]: 0.508%
+  *[1/149]: 0.668%
+  *[1/63.6]: 1.571%
+  *[1/1721]: 0.058%
+  *[1/12.9k]: 0.007%
+  *[1/14.2k]: 0.006%
+  *[1/12.5k]: 0.007%
+  *[1/1299]: 0.076%
+  *[1/317]: 0.314%
+  *[1/288]: 0.346%
+  *[1/91.1]: 1.096%
+  *[1/111]: 0.897%
+  *[1/120]: 0.832%
+  *[1/119]: 0.836%
+  *[RNG]: 随机数生成器
+  *[PRNG]: 伪随机数生成器
+  *[1/222]: 0.448%
+  *[1/2599]: 0.038%
+  *[1/109]: 0.913%
+  *[1/199]: 0.501%
+  *[1/2857]: 0.034%
+  *[HP]: 生命值
+  *[1/6]: 16.66%
+  *[1/236]: 0.423%
+  *[1/519]: 0.192%
+  *[1/336]: 0.297%
+  *[1/22.2]: 4.489%
+  *[1/219]: 0.454%
+  *[1/2754]: 0.036%
+  *[1/139]: 0.718%
+  *[1/1641]: 0.060%
+  *[1/99.6]: 1.003%
+  *[1/59.4]: 1.683%
+  *[1/211]: 0.472%
+  *[1/8.4M]: 1.189%
+  *[1/1786]: 0.055%
+  *[1/500]: 0.199%
+  *[1/328]: 0.304%
+  *[1/550]: 0.181%
+  *[1/3577]: 0.027%
+  *[1/2344]: 0.042%
+  *[1/17.1]: 5.833%
