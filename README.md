@@ -33,21 +33,23 @@
 ## 🏗️ 技术栈与流水线 (Pipeline)
 
 ```mermaid
-graph LR
-    subgraph 知识库层 (Knowledge Base)
-        A[4,456 页 Wiki Markdown] --> B[按标题层级切分 Hierarchical Chunking]
-        B --> C[37,312 文本块 + 面包屑链]
-        C --> D[BGE-M3 密集向量索引 index.npy]
+flowchart LR
+    subgraph KB ["📚 知识库层 (Knowledge Base)"]
+        direction TB
+        A["4,456 页 Wiki Markdown"] --> B["按标题层级切分 (Hierarchical Chunking)"]
+        B --> C["37,312 文本块 + 面包屑链"]
+        C --> D["BGE-M3 密集向量索引 (index.npy)"]
     end
 
-    subgraph 检索引擎 (RAG Engine)
-        Q[用户提问] --> E[NumPy 极速余弦相似度初筛 Top-30]
+    subgraph RAG ["🔍 检索引擎 (RAG Engine)"]
+        direction TB
+        Q["用户提问"] --> E["NumPy 极速余弦相似度初筛 (Top-30)"]
         D --> E
-        E --> F[BGE-Reranker-v2-M3 上下文重排 Top-6]
-        F --> G[DeepSeek LLM 融合生成]
+        E --> F["BGE-Reranker-v2-M3 上下文重排 (Top-6)"]
+        F --> G["DeepSeek LLM 融合生成"]
     end
 
-    G --> R[精准答复 + 来源 Wiki 引用锚点]
+    G --> R["精准答复 + 来源 Wiki 引用锚点"]
 ```
 
 ### 核心技术选型
