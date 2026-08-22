@@ -8,7 +8,7 @@
 [![MCP](https://img.shields.io/badge/MCP%20Server-Standard%20Ready-green?style=flat-square&logo=openai)](https://modelcontextprotocol.io/)
 [![DeepSeek](https://img.shields.io/badge/LLM-DeepSeek--V3%20%2F%20R1-blue?style=flat-square)](https://deepseek.com)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square)](LICENSE)
+[![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/Wiki%20License-CC%20BY--NC--SA%203.0-orange.svg?style=flat-square)](LICENSE) [![Code License: MIT](https://img.shields.io/badge/Code%20License-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 [简体中文](./README.md) · [快速开始](#-快速开始) · [MCP 接入指南](#-mcp-接入指南) · [Agent Skill](#-agent-skill)
 
