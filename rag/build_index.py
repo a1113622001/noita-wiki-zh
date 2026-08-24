@@ -6,9 +6,9 @@ Re-running resumes from where it left off.
 """
 import json, os, re, sys, time, urllib.request, hashlib
 
-BASE = r"C:/Users/baiyec/AppData/Roaming/reasonix/global-workspace/noita-wiki-zh"
+RAG = os.path.dirname(os.path.abspath(__file__))
+BASE = os.path.dirname(RAG)
 PAGES = os.path.join(BASE, "pages")
-RAG = os.path.join(BASE, "rag")
 os.makedirs(RAG, exist_ok=True)
 
 if os.path.exists(os.path.join(RAG, "config.json")):
