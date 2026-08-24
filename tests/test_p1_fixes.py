@@ -67,10 +67,10 @@ class TestP1Fixes(unittest.TestCase):
         self.assertEqual(os.path.normpath(rbi.CHUNKS_JSON), expected_chunks)
         self.assertEqual(os.path.normpath(rbi.INDEX_NPY), expected_index)
 
-        # 3. Verify no legacy hardcoded username or external paths
+        # 3. Verify path validity and dynamic resolution
         for path_str in [rbi.BASE, rbi.PAGES, rbi.RAG, rbi.CHUNKS_JSON, rbi.INDEX_NPY]:
-            self.assertNotIn("baiyec", path_str.lower(), f"Found hardcoded user path in: {path_str}")
-            self.assertNotIn("reasonix", path_str.lower(), f"Found hardcoded workspace path in: {path_str}")
+            self.assertTrue(os.path.isabs(path_str), f"Path must be absolute: {path_str}")
+            self.assertTrue(path_str.startswith(expected_base), f"Path must reside under project root: {path_str}")
 
         # 4. Verify path invariance regardless of cwd
         original_cwd = os.getcwd()

@@ -10,9 +10,11 @@ set PYTHONUTF8=1
 set "SCRIPT_DIR=%~dp0"
 set "MCP_SCRIPT=%SCRIPT_DIR%rag\mcp_server.py"
 
-:: 优先检测系统 Python 路径
-if exist "C:\Users\白夜\AppData\Local\Programs\Python311\python.exe" (
-    set "PYTHON_EXE=C:\Users\白夜\AppData\Local\Programs\Python311\python.exe"
+:: 优先检测 Python 环境
+if exist "%LOCALAPPDATA%\Programs\Python\Python311\python.exe" (
+    set "PYTHON_EXE=%LOCALAPPDATA%\Programs\Python\Python311\python.exe"
+) else if exist "%LOCALAPPDATA%\Programs\Python311\python.exe" (
+    set "PYTHON_EXE=%LOCALAPPDATA%\Programs\Python311\python.exe"
 ) else (
     where python >nul 2>&1
     if !errorlevel! equ 0 (

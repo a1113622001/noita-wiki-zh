@@ -17,13 +17,16 @@
 
 ## 🛠️ 一、前置环境要求与准备
 
-### 1. 本机环境检查
-- **Python 版本**：Python 3.10+（本机已就绪：`Python 3.11.9`，路径：`C:\Users\白夜\AppData\Local\Programs\Python311\python.exe`）
-- **核心依赖库**：`numpy`, `mcp`, `uvicorn`, `starlette`（本机已全部预装就绪）
-- **工程根目录**：`C:\Users\白夜\.gemini\antigravity\scratch\noita-wiki-zh-master`
+### 1. 运行环境检查
+- **Python 版本**：Python 3.10 及以上（推荐 Python 3.11 / 3.12）。
+- **核心依赖库**：`numpy`, `mcp`, `uvicorn`, `starlette`。
+- **快速安装命令**：
+  ```bash
+  pip install numpy mcp starlette uvicorn
+  ```
 
 ### 2. API Key 配置（二选一）
-> 💡 **提示**：若仅使用离线关键词检索（`noita_search`），**无需任何 API Key，100% 纯本地可用**。若需 AI 大模型生成完整推理回答（`noita_query`），可配置任意 OpenAI 兼容的 API Key（如 SiliconFlow、官方 DeepSeek、Qwen 或自建模型网关）。
+> 💡 **提示**：若仅使用离线关键词检索（`noita_search`），**无需任何 API Key，100% 纯本地可用**。若需 AI 大模型生成完整推理回答（`noita_query`），可配置任意 OpenAI 兼容的 API Key（如 SiliconFlow 免费 Key、官方 DeepSeek、Qwen 或自建模型网关）。
 
 - **方法 A（推荐）：配置文件**
   复制 `rag/config.example.json` 为 `rag/config.json`，并填入您的 API Key 与模型：
@@ -39,7 +42,7 @@
   }
   ```
 - **方法 B：环境变量**
-  设置系统环境变量 `SILICONFLOW_API_KEY="sk-..."`。
+  设置系统环境变量 `SILICONFLOW_API_KEY="sk-your-api-key"`。
 
 ---
 
@@ -57,13 +60,15 @@ Stdio 模式是由 ChatBox 客户端在提问时**自动在后台唤起 Python �
    - **名称 (Name)**: `noita-rag`
    - **传输类型 (Type)**: `stdio` (或“命令行 / 本地命令”)
    - **执行命令 (Command)**: 
+     ```text
+     python
      ```
-     C:\Users\白夜\AppData\Local\Programs\Python311\python.exe
-     ```
+     *(如系统存在多版本 Python，可填入特定 Python 解释器绝对路径，如 `C:\path\to\python.exe`)*
    - **运行参数 (Arguments)**:
+     ```text
+     rag/mcp_server.py
      ```
-     C:\Users\白夜\.gemini\antigravity\scratch\noita-wiki-zh-master\rag\mcp_server.py
-     ```
+     *(或指定该脚本的完整绝对路径，例如 `C:\path\to\noita-wiki-zh\rag\mcp_server.py`)*
    - **环境变量 (Environment Variables)**:
      ```json
      {
@@ -84,14 +89,14 @@ HTTP 模式是在本地或远程服务器上拉起一个独立的 Web 服务（�
 **优点**：适合多客户端共享、支持局域网或远程访问、可配置 Bearer Token 访问密钥。
 
 ### 1. 启动本地 HTTP 服务
-在终端或 PowerShell 中运行：
-```powershell
-& "C:\Users\白夜\AppData\Local\Programs\Python311\python.exe" "C:\Users\白夜\.gemini\antigravity\scratch\noita-wiki-zh-master\rag\mcp_server.py" --http --port 8765
+在项目根目录下打开终端或命令行运行：
+```bash
+python rag/mcp_server.py --http --port 8765
 ```
 *(可选: 若需启用密码鉴权，添加 `--token 你的密钥`)*
 
 看到如下提示即表示服务启动成功：
-```
+```text
 Noita RAG MCP (streamable-http) listening on 0.0.0.0:8765
 INFO: Uvicorn running on http://0.0.0.0:8765
 ```
@@ -114,7 +119,7 @@ INFO: Uvicorn running on http://0.0.0.0:8765
 
 ## 🔍 四、标准通用性自检清单 (Self-Check)
 
-本系统严格遵循 **Model Context Protocol (2024/2025/2026 标准规范)** 与跨平台通用设计，自检项如下：
+本系统严格遵循 **Model Context Protocol 标准规范** 与跨平台通用设计，自检项如下：
 
 | 自检维度 | 标准规范要求 | 本系统实测验证 | 结论 |
 | :--- | :--- | :--- | :---: |
@@ -148,16 +153,11 @@ INFO: Uvicorn running on http://0.0.0.0:8765
 
 ---
 
-## ❓ 六、常见问题排查（FAQ）
+## ❓ 六、常见问题排查 (FAQ)
 
-### Q1: ChatBox 提示 `Connection refused` 或 `无法连接到 MCP 服务器`？
-- **Stdio 模式**：检查 Python 路径与 `mcp_server.py` 路径是否正确，确保使用的是已安装 `mcp` 依赖的 Python（`Python 3.11`）。
-- **HTTP 模式**：确认终端中的 `python rag/mcp_server.py --http --port 8765` 服务正在运行，且防火墙未拦截 `8765` 端口。
-
-### Q2: 提示 `SiliconFlow API Key 无效` 或 `额度超限`？
-- 检查 `rag/config.json` 或环境变量 `SILICONFLOW_API_KEY` 是否填写正确；
-- 免费 API 额度用尽时，可直接在提问中指示 AI：“仅使用 `noita_search` 工具进行离线检索”。
-
-### Q3: 为什么提问没有触发 MCP 工具？
-- 在 ChatBox 的会话设置中，确保已勾选启用 `noita-rag` 工具箱；
-- 提问时明确提及 Noita 游戏关键词（如：“在 Noita 知识库中查找黑洞...”）。
+1. **连接提示 `FileNotFoundError: chunks.json`**：
+   - 确认在客户端的 `cwd` 字段中正确指定了项目的根目录路径。
+2. **检索报错 `RuntimeError: Git LFS pointer`**：
+   - 本项目向量索引使用 Git LFS 管理，请在项目根目录下执行 `git lfs pull` 拉取完整数据文件。
+3. **中文输出乱码**：
+   - 确保环境变量中配置了 `"PYTHONIOENCODING": "utf-8"`。
