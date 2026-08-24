@@ -1,14 +1,14 @@
 <div align="center">
 
 # 🪄 Noita 中文知识库 · RAG 问答系统
-### 📚 4,456 页 Wiki 离线镜像 + BGE-M3 向量 RAG + DeepSeek 生成 + MCP / Agent Skill 协议生态
+### 📚 4,456 页 Wiki 离线镜像 + BGE-M3 向量 RAG + 通用 LLM 大模型生成 + MCP / Agent Skill 协议生态
 
 [![Wiki Pages](https://img.shields.io/badge/Wiki%20Pages-4%2C456-blue.svg?style=flat-square&logo=gitbook)](pages/)
 [![RAG Chunks](https://img.shields.io/badge/RAG%20Chunks-37%2C312-orange.svg?style=flat-square)](rag/chunks.json)
 [![Embedding](https://img.shields.io/badge/Embedding-BGE--M3%20(1024d)-blueviolet.svg?style=flat-square)](https://huggingface.co/BAAI/bge-m3)
 [![Reranker](https://img.shields.io/badge/Reranker-BGE--Reranker--v2--M3-red.svg?style=flat-square)](https://huggingface.co/BAAI/bge-reranker-v2-m3)
 [![MCP Standard](https://img.shields.io/badge/MCP-Protocol%20Ready-green.svg?style=flat-square&logo=openai)](https://modelcontextprotocol.io/)
-[![LLM](https://img.shields.io/badge/LLM-DeepSeek--V3%20%2F%20R1-blue.svg?style=flat-square)](https://deepseek.com)
+[![LLM](https://img.shields.io/badge/LLM-OpenAI%20Compatible%20%2F%20Any%20LLM-blue.svg?style=flat-square)](https://platform.openai.com/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?style=flat-square&logo=python)](https://www.python.org/)
 [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/Wiki%20License-CC%20BY--NC--SA%203.0-orange.svg?style=flat-square)](LICENSE)
 [![Code License: MIT](https://img.shields.io/badge/Code%20License-MIT-brightgreen.svg?style=flat-square)](LICENSE)
@@ -24,9 +24,9 @@
 **noita-wiki-zh** 是为著名 Roguelike 魔法探索游戏《Noita》打造的**全量中文离线镜像知识库与本地 RAG 问答系统**。
 
 - 📚 **全量离线知识库**：包含全量爬取并清洗格式化的 **4,456 页 Markdown 页面**，站内所有双链均改写为相对路径，支持在 VS Code、Obsidian、Typora 中无损离线跳转浏览。
-- 🧠 **工业级 RAG 本地问答**：基于 **BGE-M3 密集向量检索 (1024维)** + **BGE-Reranker-v2 重排** + **DeepSeek 模型生成**，回答精准并自动附带来源 Wiki 引用链接。
-- 🔌 **全生态多端接入**：原生支持 **CLI 命令行交互**、**MCP Server（stdio / HTTP）** 与 **Agent Skill（/noita-wiki-rag）** 接入。
-- ⚡ **零环境依赖开箱即用**：37,312 文本块切片及向量索引已内置随仓库管理（Git LFS），本地无需拉起向量数据库容器即可毫秒级检索。
+- 🧠 **工业级 RAG 问答体系**：基于 **BGE-M3 密集向量检索 (1024维)** + **BGE-Reranker-v2 重排** + **通用 AI 大语言模型（LLM）生成**，回答精准并自动附带来源 Wiki 引用链接。
+- 🔌 **全生态多端接入**：原生支持 **CLI 命令行交互**、**MCP Server（stdio / HTTP）** 与 **Agent Skill（/noita-wiki-rag）** 接入，兼容 Claude、GPT、Gemini、Qwen、DeepSeek 等任意主流大模型客户端。
+- ⚡ **零环境依赖开箱即用**：37,312 文本块切片及向量索引已内置随仓库管理，支持 100% 本地离线 BM25 检索降级。
 
 ---
 
@@ -43,10 +43,10 @@ flowchart LR
 
     subgraph RAG ["🔍 检索引擎 (RAG Engine)"]
         direction TB
-        Q["用户提问"] --> E["NumPy 极速余弦相似度初筛 (Top-30)"]
+        Q["用户提问"] --> E["NumPy 极速余弦相似度 + BM25 混合初筛 (Top-30)"]
         D --> E
         E --> F["BGE-Reranker-v2-M3 上下文重排 (Top-6)"]
-        F --> G["DeepSeek LLM 融合生成"]
+        F --> G["AI 大语言模型 (LLM) 融合生成"]
     end
 
     G --> R["精准答复 + 来源 Wiki 引用锚点"]
@@ -58,9 +58,9 @@ flowchart LR
 | :--- | :--- | :--- |
 | **文档切分** | 标题层级切分 (Hierarchical) | 保留上级标题上下文链（如 `法术 > 投射物修饰 > 触发机制`），共 37,312 块 |
 | **向量嵌入 (Embedding)** | `BAAI/bge-m3` | 1024 维密集多语言向量表示 |
-| **初筛检索** | NumPy 矩阵向量余弦相似度 | 毫秒级内存矩阵计算，初筛召回 Top-30 相关切片 |
+| **初筛检索** | 密集向量余弦相似度 + BM25 倒排索引 | 毫秒级内存矩阵点积与 RRF 融合召回 Top-30 相关切片 |
 | **精排重排 (Rerank)** | `BAAI/bge-reranker-v2-m3` | 交叉编码重排打分，精选输出 Top-6 最佳上下文 |
-| **大模型生成** | `deepseek-ai/DeepSeek-V3` / `R1` | 基于 SiliconFlow 或官方 API 快速推理并生成 Markdown 答复 |
+| **大模型生成** | OpenAI 兼容接口 / 任意主流 LLM | 支持 DeepSeek、Qwen、Claude、GPT、Gemini 等任意标准大模型 |
 
 ---
 
@@ -102,9 +102,12 @@ python query.py "黑洞法术怎么获得" --no-llm
 
 | 接入形态 | 适用客户端 / 平台 | 入口文件 / 命令 | 说明 |
 | :--- | :--- | :--- | :--- |
-| **CLI 命令行** | 终端独立查询 / 交互问答 | `python rag/query.py` | 支持单次提问与多轮交互模式 |
-| **MCP Server** | ChatBox / Claude Code / Reasonix / Cursor | `python rag/mcp_server.py` | 标准 MCP 协议，暴露 `noita_query` 与 `noita_search` 工具 |
+| **Windows 一键运行** | ChatBox / 终端本地即开即用 | [`run_mcp.bat`](./run_mcp.bat) | 自动探查 Python 环境与 UTF-8 编码，小白无痛启动 |
+| **CLI 命令行** | 终端独立查询 / 交互问答 | `python rag/query.py` | 支持流式打字机输出与 100% 纯离线 BM25 模式 |
+| **MCP Server** | ChatBox / Claude Code / Cursor / Cherry Studio | `python rag/mcp_server.py` | 标准 MCP 协议，暴露 `noita_query` 与 `noita_search` |
 | **Agent Skill** | 支持标准 Skill 调用的 Agent 平台 | `skills/noita-wiki-rag/` | 会话中键入 `/noita-wiki-rag` 唤起技能 |
+
+👉 **完整本地部署与 ChatBox 图文接入指南请参阅：[`DEPLOY_LOCAL.md`](./DEPLOY_LOCAL.md)**
 
 ---
 
@@ -119,6 +122,7 @@ python query.py "黑洞法术怎么获得" --no-llm
       "args": ["rag/mcp_server.py"],
       "cwd": "${workspaceFolder}",
       "env": {
+        "PYTHONIOENCODING": "utf-8",
         "SILICONFLOW_API_KEY": "sk-your-api-key"
       }
     }
@@ -131,7 +135,7 @@ python query.py "黑洞法术怎么获得" --no-llm
 ## 📖 离线知识库查阅
 
 - **全量分类索引**：直接打开根目录 [`index.md`](./index.md) 查看按游戏机制、法术、生物、生物群系组织的目录树；
-- **标题映射表**：查看 [`title_to_file.json`](./title_to_file.json) 获取 4,456 个 Wiki 中文条目与 Markdown 文件的精确映射；
+- **标题映射表**：查看 [`title_to_file.json`](./title_to_file.json) 获取 4,456 个 Wiki 中文条目与 Markdown文件的精确映射；
 - **知识库正文**：所有正文 Markdown 文件均位于 [`pages/`](./pages/) 目录下。
 
 ---
@@ -143,15 +147,22 @@ noita-wiki-zh/
 ├── index.md                   # 📚 全量页面分类索引
 ├── title_to_file.json         # 🗺️ 页面标题 → Markdown 文件名映射
 ├── pages/                     # 📂 4,456 页 Markdown 离线镜像知识库
+├── run_mcp.bat                # ⚡ Windows 一键无痛启动脚本
+├── DEPLOY_LOCAL.md            # 📖 本地部署与 ChatBox 详细接入指南
+├── REPORT_P2_DELIVERY.md      # 📦 Milestone v1.1 核心交付报告
+├── project_debate_report.md   # 🏛️ 三方辩论与推演裁决报告
 ├── skills/
 │   └── noita-wiki-rag/        # 🤖 Agent Skill 规范目录 (SKILL.md)
 ├── rag/
 │   ├── build_index.py         # 索引构建脚本 (切片 + BGE 向量生成)
 │   ├── chunks.json            # 37,312 知识切片库 (Git LFS)
 │   ├── index.npy              # BGE 密集向量索引 (Git LFS)
-│   ├── query.py               # RAG 问答检索核心入口 (CLI)
-│   ├── mcp_server.py          # 标准 Model Context Protocol 服务端
+│   ├── query.py               # RAG 问答检索核心入口 (CLI, 支持 BM25+SSE)
+│   ├── mcp_server.py          # 标准 Model Context Protocol 服务端 (带 Bearer 鉴权)
 │   └── config.example.json    # 配置文件模板
+├── tests/
+│   ├── test_p1_fixes.py       # P0/P1 回归测试套件
+│   └── test_p2_features.py    # Phase 2 核心功能测试套件 (73/73 通过)
 ├── mcp.chatbox.json.example   # ChatBox MCP 配置范例
 └── mcp.local.json.example     # 本地 MCP 配置范例
 ```
